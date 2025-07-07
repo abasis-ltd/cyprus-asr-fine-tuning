@@ -1,0 +1,26 @@
+jiwer
+faster-whisper # whisper library
+deepgram-sdk # deepgram library
+elevenlabs # elevenlabs library
+speechmatics-python # speechmatics lib
+rev-ai # rev.ai lib
+httpx
+torchaudio
+librosa
+datasets #-> datasets update if there's an error
+psutil
+torchaudio
+typing
+assemblyai # assembly library
+openai # openai lib
+google-cloud-speech
+################################
+mlflow # tracking
+pyngrok # ngrok
+# LINTERS
+#############################
+mypy
+black
+flake8
+dotenv
+#############################
