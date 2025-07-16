@@ -1,0 +1,1001 @@
+audio_filepath,start,end,text,pronunciation
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,13.559,18.0,Λοιπόν Μαρία μου καλωσόρισες Είναι,lipˈon marˈia mu kˌalosˈorisˌes ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,15.44,20.199,τιμή μου που είσαι η πρώτη μας καλεσμένη,timˈi mu pu ˌise i prˈoti mas kˌalesmˈeni
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,18.0,23.68,στο,sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,20.199,26.279,Ουάου έννα πω εγώ να ξέρεις είμαι,uˈau ˈena pˈo eɣˈo na ksˈeris ˌime
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,23.68,28.439,καλότυχη Φερνογούρης συνήθως είμαι,kalˈotiçˌi fˌernoɣˈuris sinˈiθos ˌime
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,26.279,30.88,σίγουρος διότι αν λάβει κανείς υπόψιν,sˈiɣurˌoz ðiˈoti an lˈavi kanˈis ipˈopsin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,28.439,33.76,τις επιτυχίες που είχε στο στίβο ε,tis ˌepitiçˈies pu ˌiçe sto stˈivo ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,30.88,36.52,Χαρκόυμαι ότι εννεν τυχαίο πέρα από τον,xarkˈoimˌe ˈoti ˈenen diçˈeo pˈer apˌo ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,33.76,38.559,αγώνα που πρέπει να δίνεις για να,aɣˈona pu prˈepi na ðˈiniz janˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,36.52,42.64,φτάσεις σε ένα σημείο Προταθλητησμου αλλά,ftˈasis se ˌena simˈio prˌotaθlitˈismu alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,38.559,44.92,αλήθεια η ιστορία σου έγινε λίγο πολύ,alˈiθça i ˌistorˈia su ˈejinˌe lˈiɣo polˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,42.64,47.64,γνωστή γιατί εσύ επέλεξες να τη,ɣnostˈi jatˈi esˈi epˈeleksˌez na ti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,44.92,50.0,δημοσιοποιήσεις έτσι Ναι χωρίς να το,ðˌimosjˌopiˈisis ˈetsi nˈe xorˈiz na to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,47.64,52.32,περιμένω το ότι είναι να γίνει αλλά,pˌerimˈeno to ˈoti ˌine na jˈini alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,50.0,55.96,αλήθεια είναι αυτό ναι λοιπόν όμως πριν,alˈiθça ˌine aftˈo nˈe lipˈon ˈomos prˈin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,52.32,59.239,πάμε να μας πεις ξανά να ε να θυμηθούμε,pˈame na mas pˈis ksanˈa na ˈepsilˌon na θˌimiθˈume
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,55.96,62.519,τη δική σου δοκιμασία η οποία έννα πρέπει,ti ðicˈi su ðˌocimasˈia i opˈia ˈena prˈepi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,59.239,64.68,να πω τζαί έννα το διαπιστώσουν τζαί οι,na pˈo dzˈe ˈena to ðˌiapistˈosun dzˈe i
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,62.519,67.96,φίλοι στη συνέχεια πώς έγινε σε μια,fˈili sti sinˈeça pˈos ˈejinˌe se mɲa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,64.68,69.479,μεγάλη ευλογία για πάρα πολύ τον κόσμο,meɣˈali ˌevlojˈia jˈa pˈara polˈi toŋ ɡˈosmo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,67.96,73.799,Θέλω να θυμηθούμε λίγο την πορεία σου,θˈelo na θˌimiθˈume lˈiɣo tim borˈia su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,69.479,78.36,στο στίφο Έτσι ε πρωταθλήτρια στο,sto stˈifo ˈetsi ˈepsilˌon prˌotaθlˈitriˌa sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,73.799,82.03999999999999,αλμαγοντό Ε έλαβες μέρος σε σημαντικές,ˌalmaɣodˈo ˈepsilˌon ˈelavˌez mˈeros se sˌimadicˈes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,78.36,85.84,ε έτσι συναντήσεις στίβου ας το πούμε,ˈepsilˌon ˈetsi sˌinadˈisis stˈivu ˈas to pˈume
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,82.03999999999999,88.92,έτσι Οπότε πότε ξεκινάς με τον κλασσικό,ˈetsi opˈote pˈote ksˌecinˈaz me toŋ ɡlˌassikˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,85.84,92.03999999999999,αθλητισμό Ε στον κλασσικόν αθλητισμό,ˌaθlitismˈo ˈepsilˌon stoŋ ɡlˌassikˈon ˌaθlitismˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,88.92,95.119,βρέθηκα λίγον τυχαία ε κάπου δευτέραν,vrˈeθikˌa lˈiɣon diçˈea ˈepsilˌon kˈapu ðeftˈeran
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,92.03999999999999,97.96000000000001,τρίτη γυμνασίου ε όταν ο αρφός μου,trˈiti jˌimnasˈiu ˈepsilˌon ˈotan o arfˈoz mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,95.119,99.96000000000001,είχε κερδίσει πακύπριους εξαθλό ε,ˌiçe cerðˈisi pacˈipriˌus ˌeksaθlˈo ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,97.96000000000001,101.28,απροπόνητος οπότε επειδή μετά έννα,ˌapropˈonitˌos opˈote ˌepiðˈi metˈa ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,99.96000000000001,103.799,πηγαίνει πανελλήνιούσε πρέπει να,pijˈeni pˌanelˈiɲˈuse prˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,101.28,107.07900000000001,πηγαίνει στο στίβο τζαί πηγαίνα τζαί εγώ,pijˈeni sto stˈivo dzˈe pijˈena dzˈe eɣˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,103.799,109.07900000000001,μαζί του ε εν ήμουν ιδιαίτερα καλή στο,mazˌi tu ˈepsilˌon ˈen ˌimun ˌiðiˈeterˌa kalˈi sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,107.07900000000001,113.6,πένταθλόν που έκανα εγώ για να κάνουμε,pˈedaθlˈom bu ˈekanˌa eɣˈo janˌa kˈanumˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,109.07900000000001,116.07900000000001,μαζί ε τζαί μετά Από μία σειρά γεγονότων,mazˌi ˈepsilˌon dzˈe metˈa apˌo mˌia sirˈa jˌeɣonˈoton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,113.6,117.84,βρέθηκα στο επικοντό που επειδή εν,vrˈeθikˌa sto ˌepikodˈo pu ˌepiðˈi ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,116.07900000000001,121.28,υπήρχαν πολλές επικοντίστριες στην,ipˈirxam bolˈes ˌepikodˈistriˌes stin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,117.84,123.92,Κύπρον τότε κατευθείαν είχα βρεθεί στις,cˈipron dˈote kˌatefθˈian ˌixa vreθˈi stis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,121.28,129.92,πρώτες θέσεις εθνική Οπότε από κει τζαί,prˈotes θˈesis ˌeθnicˈi opˈote apˌo cˈi dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,123.92,132.44,πέρα η εξέλιξη ήταν η γνωστή Ε,pˈera i eksˈeliksˌi ˌitan i ɣnostˈi ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,129.92,136.72,γενικά ήταν από τα λίγα πράγματα που,jˌenikˈa ˌitan apˌo ta lˈiɣa prˈaɣmatˌa pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,132.44,138.64,μέχρι στιγμής έμαθα να προσπαθώ Ε έτσι,mˈexri stiɣmˈis ˈemaθˌa na prˌospaθˈo ˈepsilˌon ˈetsi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,136.72,141.84,νιώθω Γιατί στο σχολείο το σχολείο μου,ɲˈoθo jatˈi sto sxolˈio to sxolˈio mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,138.64,145.84,φαινότανε πολύ εύκολο Ε υποχρεώσεις,fenˈotanˌe polˈi ˈefkolˌo ˈepsilˌon ˌipoxreˈosis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,141.84,147.72,άλλες έναν παιδί ιδιαίτερες εν έσιει,ˈales ˌenam beðˈi ˌiðiˈeterˌes ˈen ˈesji
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,145.84,150.36,Στο μόνο που εν ήμουνα τόσον καλή από,sto mˈono pu ˈen ˈimunˌa tˈosoŋ ɡalˈi apˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,147.72,153.4,την αρκημός ήταν ο στίβος γενικότερα ο,tin ˌarcimˈos ˌitan o stˈivoz jˌenikˈoterˌa ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,150.36,155.07999999999998,αθλητισμός Ήμουνα καλή αλλά όχιε στο,ˌaθlitismˈos ˈimunˌa kalˈi alˌa ˈoçe sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,153.4,158.04,σημείο που έπρεπε,simˈio pu ˈeprepˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,155.07999999999998,160.599,Οπότε έμαθα να προσπαθώ τζαί συνέχισα να,opˈote ˈemaθˌa na prˌospaθˈo dzˈe sinˈeçisˌa na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,158.04,163.44,προσπαθώ σε σημείο που κάποια μέρα,prˌospaθˈo se simˈio pu kˈapiˌa mˈera
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,160.599,165.92000000000002,βρέθηκα πρώτα αθλήτρια Ναι Πώς ήταν,vrˈeθikˌa prˈot aθlˈitriˌa nˈe pˈos ˌitan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,163.44,168.84,τζείνη η μέρα που βρέθηκες πρωταθλήτρ,dzˈini i mˈera pu vrˈeθicˌes prˌotaθlˈitr
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,165.92000000000002,172.12,διότι για να γίνεις πρωταθλητής πρέπει,ðiˈoti janˌa jˈinis prˌotaθlitˈis prˈepi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,168.84,174.159,να μάθεις να πυθαρχής να αγωνίζεσαι να,na mˈaθiz na pˌiθarçˈiz n ˌaɣonˈizesˌe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,172.12,176.56,προσπαθείς να σηκώνεσαι να πέφτεις,prˌospaθˈiz na sikˈonesˌe na pˈeftis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,174.159,179.48,Άρα έρχεται τζείνη η μέρα που γίνεται η,ˈara ˈerçetˌe dzˈini i mˈera pu jˈinetˌe ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,176.56,184.08,Μαρία Αριστοτέλος πρωταθλήτρια Ναι Πώς,marˈi ˌaristotˈelos prˌotaθlˈitriˌa nˈe pˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,179.48,185.159,νιώθεις Ε τρεις ευτυχισμένη να πω,ɲˈoθis ˈepsilˌon trˈis ˌeftiçismˈeni na pˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,184.08,187.879,Ε,ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,185.159,190.599,βέβαια ε συνειδητά είχα επιλέξει το,vˈeveˌa ˈepsilˌon sˌiniðitˈa ˌixa ˌepilˈeksi to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,187.879,191.519,επικοντό γιατί στο επικοντό το θεωρούσα,ˌepikodˈo jatˈi sto ˌepikodˈo to θˌeorˈusa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,190.599,195.519,από τα,apˌo ta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,191.519,198.92000000000002,πιο αξιοκρατικά να το πω αθλήματα του,pçˈo ˌaksiˌokratikˈa na to pˈo aθlˈimatˌa tu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,195.519,202.48,στίβου γιατί έχεις περάσει πάνω από τον,stˈivu jatˈi ˌeçis perˈasi pˈano apˌo ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,198.92000000000002,205.4,πήχη είναι έγκυρο έχεις κερδίσει Έσιει,pˈiçi ˌine ˈeŋɡirˌo ˌeçis cerðˈisi ˈesji
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,202.48,207.28,πέσει ο πίχης είναι άκυρο έχεις χάσει,pˈesi o pˈiçis ˌine ˈacirˌo ˌeçis xˈasi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,205.4,208.879,εννεν όπως άλλα αγωνίσματα που,ˈenen ˈopos ˈal ˌaɣonˈismatˌa pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,207.28,211.799,μπορείς να ξανακάνεις να ξανακάνεις να,borˈiz na ksˌanakˈaniz na ksˌanakˈaniz na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,208.879,214.72,ξανακάνεις ε μία να κερδίσεις μία να,ksˌanakˈanis ˈepsilˌon mˌia na cerðˈisiz mˌia na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,211.799,216.92000000000002,χάσεις τζαί να πάει κάπως έτσι Οπότε,xˈasis dzˈe na pˈai kˈapos ˈetsi opˈote
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,214.72,218.4,αυτό μου άρεσε πάρα πολύ στο επικοντό,aftˈo mu ˈaresˌe pˈara polˈi sto ˌepikodˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,216.92000000000002,221.879,Αυτό είναι αυτό το έσιει το επικοντό τζαί,aftˈo ˌine aftˈo to ˈesji to ˌepikodˈo dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,218.4,223.56,το αλμαϊσ ύψος Ε οπότε μ άρεσε από,to ˈalmaɪs ˈipsos ˈepsilˌon opˈote mˈi ˈaresˌe apˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,221.879,224.28,πάντα πάρα πολύ αυτό Το θεωρούσα πάρα,pˈada pˈara polˈi aftˈo to θˌeorˈusa pˈara
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,223.56,227.72,πολύ,polˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,224.28,230.4,δικονοθλημα τζαί ενδιαφέρω Ε τζαί επίσης,ðˌikonoθlˈima dzˈe ˌenðiafˈero ˈepsilˌon dzˈe epˈisis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,227.72,232.92000000000002,ήθελα πάρα πολύ τρέλα αυτό το άθλημα,ˈiθelˌa pˈara polˈi trˈel aftˈo to ˈaθlimˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,230.4,236.04,Οπότε θαρκούμαι ήταν κομμένο στα μέτρα μου,opˈote θarkˈume ˌitaŋ ɡomˈeno sta mˈetra mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,232.92000000000002,238.4,Άρα η Μαρία έσιει πολύ Ναι τζαί,ˈara i marˈia ˈesji polˈi nˈe dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,236.04,241.439,βαριόμουνα τζαί πάρα πολύ εύκολα άμα κάτι,vˌariˈomunˌa dzˈe pˈara polˈi ˈefkol ˈama kˈati
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,238.4,245.68,ήτανε συνετό Ναι,ˈitanˌe sˌinetˈo nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,241.439,247.2,Θυμάμαι μια φορά είχα έρθει πρώτη ε στα,θimˈame mɲa forˈa ˌixa ˈerθi prˈoti ˈepsilˌon sta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,245.68,250.48,γυμνάσια Λίκια εν θυμάμαι τώρα σε,jimnˈasja lˈica ˈen θimˈame tˈora se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,247.2,253.159,εκείνες τις ηλικίες στο σχολείο Ε,ecˈines tis ˌilicˈies sto sxolˈio ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,250.48,255.04,πηγαίνομαι πίσω στο σχολείο τζαί μου,pijˈenomˌe pˈiso sto sxolˈio dzˈe mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,253.159,258.56,λέγανε τα υπόλοιπα παιδιά μπράβο μπράβο,lˈeɣanˌe ta ipˈolipˌa pˌeðiˈa brˈavo brˈavo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,255.04,263.16,μπράβο Ήτανε μία πουρέκκα που μου λέει ε,brˈavo ˈitanˌe mˌia purˈeka pu mu lˈei ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,258.56,265.6,Μαρία άκουσα ότι ήρθες πρώτη Λαλώ ναι,marˈi ˈakusˌa ˈoti ˈirθes prˈoti lalˈo nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,263.16,268.759,Ε μου λέει Ε ναι αλλά εν ήσουν,ˈepsilˌon mu lˈei ˈepsilˌon nˈe alˌa ˈen ˌisun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,265.6,271.6,μονή σου Λαλώ της Ναι Μου λέει,monˈi su lalˈo tiz nˈe mu lˈei
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,268.759,273.08,Τζαί τζαί χαίρεσαι Της λαλώ Ναι αλλά,dzˈe dzˈe çˈeresˌe tiz lalˈo nˈe alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,271.6,275.919,ας ερχόσουν τζαί εσύ τζαί ας ερχόμουν τζαί,ˈas erxˈosun dzˈe esˈi dzˈe ˈas erxˈomun dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,273.08,279.28,δεύτερη εν πειράζει Ε εμένα με,ðˈefterˌi ˈem birˈazi ˈepsilˌon emˈena me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,275.919,283.08,έβλεπε έτσι Το λέει υχαρητήρια τζαί,ˈevlepˌe ˈetsi to lˈei ˌixaritˈiriˌa dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,279.28,286.52,φεύγει Ντάξει εγώ γελούσα Ε είσαι,fˈevji dˈaksi eɣˈo jelˈusa ˈepsilˌon ˌise
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,283.08,290.919,ένα άτομο που στο λίγο διάστημα που μιλώ,ˌen ˈatomˌo pu sto lˈiɣo ðiˈastimˌa pu milˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,286.52,294.4,μαζί σου ε γελάς Είσαι αισιόδοξη,mazˌi su ˈepsilˌon jelˈas ˌise esjˈoðoksˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,290.919,297.24,Κάποιος έννα μπορούσε να πει ότι μια,kˈapiˌos ˈena borˈuse na pˈi ˈoti mɲa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,294.4,300.08,δύσκολη δοκιμασία μπορεί να ρίξει τον,ðˈiskolˌi ðˌocimasˈia borˈi na rˈiksi ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,297.24,303.28,άνθρωπο τζαί να τον κρατά τα πατώματα,ˈanθropˌo dzˈe na toŋ ɡratˈa ta patˈomatˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,300.08,306.8,Οπότε ερχόμενη στην δική σου τη,opˈote erxˈomenˌi stin ðicˈi su ti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,303.28,309.32,δοκιμασία Εμ έρχεται μια μέρα που,ðˌocimasˈia ˈem ˈerçetˌe mɲa mˈera pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,306.8,313.24,ουσιαστικά υποψιάζεσαι ότι κάτι εν πάει,ˌusjastikˈa ˌipopsiˈazesˌe ˈoti kˈati ˈem bˈai
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,309.32,315.12,καλά Ήντα κάνεις πώς το διαχειρίζεσαι,kalˈa ˈida kˈanis pˈos to ðˌiaçirˈizesˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,313.24,316.88,Μιλούμε για τη συγκεκριμένη περίπτωση,milˈume jˈa ti sˌiŋɡekrimˈeni perˈiptosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,315.12,318.68,γιατί σε αυτή την περίπτωση όταν πήγα,jatˈi se aftˈi tim berˈiptosˌi ˈotam bˈiɣa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,316.88,321.199,στο γιατρό την πρώτη φορά εν περίμενα,sto jatrˈo tim brˈoti forˈa ˈem berˈimenˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,318.68,324.039,τίποτα εν περίμενα κάποια διάγνωση,tˈipotˌa ˈem berˈimenˌa kˈapiˌa ðiˈaɣnosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,321.199,326.6,Σίγουρα εν περιμέναμεν αυτόν που ήρθεν,sˈiɣurˌa ˈem bˌerimˈenamˌen aftˈom bu ˈirθen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,324.039,327.72,κυρίως σε ότι αφορά τη δική μου τη ζωή,cirˈios se ˈoti ˌaforˈa ti ðicˈi mu ti zoˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,326.6,330.4,Ε,ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,327.72,334.199,οπότε όι ότι με ένοιαζεν εντέλει ότι,opˈote ˈoɪ ˈoti me ˈeɲazˌen edˈeli ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,330.4,336.639,αυτή ήταν η διάγνωση για να μην ε,aftˈi ˌitan i ðiˈaɣnosˌi janˌa mˈin ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,334.199,341.0,παρερμηνεύουμε τα πράγματα,pˌarerminˈevumˌe ta prˈaɣmatˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,336.639,346.039,Ε όμως με βοήθησε πάρα πολύ ότι ήξερα το,ˈepsilˌon ˈomoz me voˈiθisˌe pˈara polˈi ˈoti ˈikserˌa to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,341.0,346.039,σώμα μου τόσον καλά Ε κατά τα,sˈoma mu tˈosoŋ ɡalˈa ˈepsilˌon katˈa ta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,346.36,352.759,άλλα ε όλοι έννα περάσουμε δυσκολίες,ˈala ˈepsilˌon ˈoli ˈena perˈasumˌe ðˌiskolˈies
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,349.4,354.84000000000003,Όλοι έννα περάσουμε διαφορετικές δυσκολίες,ˈoli ˈena perˈasumˌe ðˌiafˌoreticˈez ðˌiskolˈies
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,352.759,358.479,σε άλλα σε άλλους τομείς σε άλλα,se ˈala se ˈalus tomˈis se ˈala
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,354.84000000000003,360.84,πράγματα ο καθένας αλλά εννεν,prˈaɣmatˌa o kaθˈenas alˌa ˈenen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,358.479,363.52,κάποιος ε εν είχε κάποιος το μαγικό,kˈapiˌos ˈepsilˌon ˈen ˌiçe kˈapiˌos to mˌajikˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,360.84,366.08,φίλτρο ότι εγώ εν έννα το πάθω αυτό,fˈiltro ˈoti eɣˈo ˈen ˈena to pˈaθo aftˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,363.52,368.319,Ε οπότε ναι ήρθε,ˈepsilˌon opˈote nˈe ˈirθe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,366.08,370.039,λίγον φυσικά μπορούμε να πούμε ότι,lˈiɣon fˌisikˈa borˈume na pˈume ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,368.319,371.96,έρχεται φυσικά μια διάγνωση ενός,ˈerçetˌe fˌisikˈa mɲa ðiˈaɣnosˌi enˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,370.039,373.52,καρκίνου σαν το δικό μου που εν υπάρχει,karcˈinu sˈan do ðikˈo mu pu ˈen ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,371.96,375.599,πουθεν άλλου Αν μπορούμε να το πούμε να,pˈuθen ˈalu an borˈume na to pˈume na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,373.52,379.479,το πούμε αυτό Πρέπει να σταθούμε λίγο,to pˈume aftˈo prˈepi na staθˈume lˈiɣo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,375.599,381.8,σε αυτό το τιτσίν Συνήθως ένας ασθενής,se aftˈo to titsˈin sinˈiθos ˌenas ˌasθenˈis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,379.479,384.12,το άκουσμα της,to ˈakusmˌa tis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,381.8,387.599,διάγνωσης αν έσιει αυτά τα δεδομένα,ðiˈaɣnosˌis an ˈesji aftˈa ta ðˌeðomˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,384.12,390.039,στην εξίσωση τα αρνητικά τα δύσκολα,stin eksˈisosˌi t ˌarnitikˈa ta ðˈiskolˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,387.599,393.12,ε σοκάρεται,ˈepsilˌon sokˈaretˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,390.039,394.96,απογοητεύεται ε σκέφτεται τον εαυτόν,ˌapoɣoɪtˈevetˌe ˈepsilˌon scˈeftetˌe ton ˌeaftˈon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,393.12,398.639,του πρώτα την οικογένειά του αν έσιει,tu prˈota tin ˌikojˈeɲˈa tu an ˈesji
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,394.96,403.68,παιδιά τα παιδιά του τους γύρω του,pˌeðiˈa ta pˌeðiˈa tu tuz jˈiro tu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,398.639,405.919,Ε πότε ξεκινά ο άνθρωπος μετά το άκουσμα,ˈepsilˌon pˈote ksˌecinˈa o ˈanθropˌoz metˈa to ˈakusmˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,403.68,408.24,της διάγνωσης να μπαίνει σε μια,tiz ðiˈaɣnosˌiz na bˈeni se mɲa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,405.919,410.28,διαδικασία αναφοίωσης τζαί διαχείρισης,ðˌiaðˌikasˈi ˌanafˈiosˌis dzˈe ðˌiaçˈirisˌis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,408.24,413.24,του,tu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,410.28,417.52,ζητήματος να το αποδέχεται δηλαδή να σου,zitˈimatˌoz na to ˌapoðˈeçetˌe ðˌilaðˈi na su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,413.24,420.68,πω θαρκούμαι ότι το οποιοδήποτε ενδεχόμενο,pˈo θarkˈume ˈoti to ˌopioðˈipotˌe ˌenðexˈomenˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,417.52,423.319,στη διάγνωση το είχα από τη από πριν καν,sti ðiˈaɣnosˌi to ˌix apˌo ti apˌo prˈiŋ ɡˈan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,420.68,425.919,πάω στον προσωπικό μου γιατρό,pˈao stom brˌosopikˈo mu jatrˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,423.319,427.599,Ε εν ήμουν ποτέ απ τα άτομα που,ˈepsilˌon ˈen ˌimum botˈe ˈap t ˈatomˌa pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,425.919,430.24,προσπαθούσα να ελέγξω τα πράγματα που,prˌospaθˈusa na elˈeɣkso ta prˈaɣmatˌa pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,427.599,432.84,εν μπορώ να ελέγξω τζαί θαρκούμαι ότι αυτό,ˈen borˈo na elˈeɣkso dzˈe θarkˈume ˈoti aftˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,430.24,435.919,είναι ένα μάθημα που μας έρχεται στη,ˌine ˌena mˈaθimˌa pu mas ˈerçetˌe sti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,432.84,438.52,ζωή στον οποιοδήποτε έννα έρθει τζαί το,zoˈi ston ˌopioðˈipotˌe ˈena ˈerθi dzˈe to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,435.919,440.879,θέμα είναι πότε έννα το μάθει Δηλαδή πότε,θˈema ˌine pˈote ˈena to mˈaθi ðˌilaðˈi pˈote
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,438.52,443.0,έννα μάθει ότι εν μπορώ να ελέγξω τα,ˈena mˈaθi ˈoti ˈen borˈo na elˈeɣkso ta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,440.879,446.44,πάντα Άρα αφού εν μπορώ να τα ελέγξω,pˈad ˈar afˈu ˈen borˈo na ta elˈeɣkso
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,443.0,449.52,ας αποδέχομαι πιο γρήγορα ε το κάθετί,ˈas ˌapoðˈexomˌe pçˈo ɣrˈiɣorˌa ˈepsilˌon to kˈaθetˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,446.44,452.599,που έρχεται στη ζωή μου τζαί πρέπει να να,pu ˈerçetˌe sti zoˈi mu dzˈe prˈepi na na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,449.52,455.96,προχωρήσω Αυτό ήταν το ένατο τιτσίν,prˌoxorˈiso aftˈo ˌitan do ˈenatˌo titsˈin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,452.599,458.52,Ε το δεύτερον κομμάτιν ε γιατί η,ˈepsilˌon to ðˈefterˌoŋ ɡomˈatin ˈepsilˌon jatˈi ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,455.96,460.479,διάγνωση σε μένα πήρε δύο μήνες,ðiˈaɣnosˌi se mˈena pˈire ðˈio mˈines
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,458.52,464.879,Καταρχάς ξεκινήσαμε από,kˌatarxˈas ksˌecinˈisamˌe apˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,460.479,468.599,το δενομίζω να είναι τίποτα Ε αλλά,to ðˌenomˈizo na ˌine tˈipotˌa ˈepsilˌon alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,464.879,470.52,επειδή σε νέα να ξεκινήσουμε να το να το,ˌepiðˈi se nˈea na ksˌecinˈisumˌe na to na to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,468.599,472.36,ελέγχουμε Την ίδια ημέρα δηλαδή είχα,elˈeŋxumˌe tin ˈiðja imˈera ðˌilaðˈi ˌixa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,470.52,474.159,πάει στους άλλους γιατρούς έκανα,pˈai stus ˈaluz jatrˈus ˈekanˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,472.36,478.08,αιματολογικές τζαί τέτοια Βγα βγαίναν,ˌematˌolojicˈes dzˈe tˈetiˌa vɣˈa vjˈenan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,474.159,480.199,όλα αρνητικά Ε όλες οι ειδικότητες,ˈol ˌarnitikˈa ˈepsilˌon ˈoles i ˌiðikˈotitˌes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,478.08,482.0,στις οποίες έπρεπε να συναναστραφω μαζί,stis opˈies ˈeprepˌe na sˌinanastrˈafo mazˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,480.199,484.479,τους ε,tus ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,482.0,488.4,ξαναδιαβάζαν για να δουν αν μπορούν να,ksˌanaðˌiavˈazan janˌa ðˈun an borˈun na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,484.479,490.36,βρουν κάτι άλλο Ε εν βρίσκαμε τίποτα,vrˈuŋ ɡˈati ˈalo ˈepsilˌon ˈen vrˈiskamˌe tˈipotˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,488.4,492.52,Μέχρι που πήγαμε,mˈexri pu pˈiɣamˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,490.36,495.0,για ε,jˈa ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,492.52,497.599,χειρουργείων βγάλαμε το λεφαδέναν τον,çˌirurjˈion vɣˈalamˌe to lˌefaðˈenan don
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,495.0,500.68,έναν που ήταν εδώ Το πρώτον εργαστήριν,ˌenam bu ˌitan eðˈo to prˈoton ˌerɣastˈirin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,497.599,503.199,πάλι είπεν εν ξέρω ήντα είναι Πήγε στο,pˈali ˈipen ˈeŋ ɡzˈero ˈida ˌine pˈije sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,500.68,505.8,γεννητικό νοσοκομείο το δείγμα μου τζαί,jˌenitikˈo nˌosokomˈio to ðˈiɣma mu dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,503.199,507.24,τζιαμέ είχαν βρει ότι ήτανε μεταστατικό,dzˌiamˈe ˌixan vrˈi ˈoti ˈitanˌe mˌetastˌatikˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,505.8,511.639,ραυδόμιο,ravðˈomiˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,507.24,513.479,άρκωμα που είναι τύχη που το βρήκαν,ˈarkomˌa pu ˌine tˈiçi pu to vrˈikan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,511.639,516.279,γιατί το βδομιο σάρκμα εμφανίζεται μόνο,jatˈi to vðomˈio sˈarkma ˌemfanˈizetˌe mˈono
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,513.479,519.479,σε μωρά,se morˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,516.279,522.68,τζαί επίσης ήτανε μεταστατικό εν ήταν ο,dzˈe epˈisis ˈitanˌe mˌetastˌatikˈo ˈen ˌitan ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,519.479,524.44,πρωτοπαθής οι πρωτοπαθείς στο,prˌotopaθˈis i prˌotopaθˈis sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,522.68,526.6,ραβοδισάρκο μας συνήθως εμφανιζονται σε,rˌavoðisˈarko mas sinˈiθos ˌemfanizˈode se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,524.44,529.279,χέρια όξα σε πόδια οπότε τζαί οι γιατρούς,çˈeriˌa ˈoksa se pˈoðja opˈote dzˈe i jatrˈus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,526.6,532.16,τζιαμέ λέει ξεκινήσετε να ψάχνετε τα πόδια,dzˌiamˈe lˈei ksˌecinˈisetˌe na psˈaxnetˌe ta pˈoðja
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,529.279,534.32,της ήτα τα χέρια της Άρα πάλι έννα,tis ˈita ta çˈeriˌa tis ˈara pˈali ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,532.16,538.0,πηγαίναμε σε άλλα μονοπάτια ενώ έννα,pijˈenamˌe se ˈala mˌonopˈatiˌa enˈo ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,534.32,539.44,ψάχναμε κάτι που εν υπάρχει Ε δόξα το,psˈaxnamˌe kˈati pu ˈen ipˈarçi ˈepsilˌon ðˈoksa to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,538.0,544.44,Θεόν Είχαμε βρει τον πρώτο παθίμ που,θeˈon ˌixamˌe vrˈi tom brˈoto paθˈim pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,539.44,548.24,ήτανε μέσα στη εδώ ε από θείαν τύχη,ˈitanˌe mˌesa sti eðˈo ˈepsilˌon apˌo θˈian dˈiçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,544.44,551.48,έννα πω εγώ τζαί κατευθείαν μπορούσαμε να,ˈena pˈo eɣˈo dzˈe kˌatefθˈian borˈusamˌe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,548.24,553.32,έχουμε τη διάγνωση ώστε να προχωρήσω σε,ˌexumˌe ti ðiˈaɣnosˌi ˈoste na prˌoxorˈiso se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,551.48,555.44,θεραπεία,θˌerapˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,553.32,558.519,εν ρώτησα ούτε μία,ˈen rˈotisˌa ˈute mˌia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,555.44,561.279,στιγμή ήντα πο πώς πότε γιατί εν,stiɣmˈi ˈida pˈo pˈos pˈote jatˈi ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,558.519,564.36,γκούγκλαρα ούτε μία στιγμή Ε με τους,ɡˈuŋɡlarˌa ˈute mˌia stiɣmˈi ˈepsilˌon me tus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,561.279,566.519,δικούς μου πάντα έκανα πλάκα Αυτοί εν,ðikˈuz mu pˈada ˈekanˌa plˈak aftˈi ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,564.36,569.48,γελούσανε τόσο πολύ Εγώ γελούσα Ε,jelˈusanˌe tˈoso polˈi eɣˈo jelˈusa ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,566.519,571.8389999999999,είναι ένα χαρακτηριστικό αυτό που,ˌine ˌena xˌaraktˌiristikˈo aftˈo pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,569.48,574.079,συμβαίνουν με κάποιους ασθενείς δηλαδή,simvˈenun me kˈapiˌus ˌasθenˈiz ðˌilaðˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,571.8389999999999,575.9590000000001,να προσπαθούν να κάνουν το ψυχολόγον,na prˌospaθˈun na kˈanun do psˌixolˈoɣon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,574.079,579.0,τους γονείς τους τους συγγενείς τους,tuz ɣonˈis tus tus sˌiŋɡenˈis tus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,575.9590000000001,582.48,οι οποίοι φυσιολογικά τζαί ανθρώπινα,i opˈii fˌisjolˌojikˈa dzˈe anθrˈopinˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,579.0,584.04,αγχώνονται ανησυχούν αγωνιούν,aŋxˈonodˌe ˌanisixˈun ˌaɣoɲˈun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,582.48,587.76,τζαί εν μπορούν να κάνουν τίποτα Νο εν,dzˈe ˈen borˈun na kˈanun dˈipotˌa nˈo ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,584.04,590.079,μπορούν να κάνουν τίποτα Άρα τζιαμέ πώς,borˈun na kˈanun dˈipot ˈara dzˌiamˈe pˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,587.76,593.6,το διαχειρίζεσαι Εντάξει εν έχουν όλοι,to ðˌiaçirˈizesˌe edˈaksi ˈen ˌexun ˈoli
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,590.079,593.6,οι άνθρωποι τρέσει,i ˈanθropˌi trˈesi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,593.72,598.48,ε σε έναν άνθρωπο σε ένα συμπολίτη μας,ˈepsilˌon se ˌenan ˈanθropˌo se ˌena sˌibolˈiti mas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,595.92,600.8,που περνά από αυτή τη διαδικασία αυτή τη,pu pernˈa apˌo aftˈi ti ðˌiaðˌikasˈi aftˈi ti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,598.48,603.8,στιγμή που βλέπει τη μάμμα του τζαί τον,stiɣmˈi pu vlˈepi ti mˈama tu dzˈe ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,600.8,604.56,μπαμπά του να λυπούνται μπορεί να μείνει,babˈa tu na lipˈude borˈi na mˈini
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,603.8,609.64,του το,tu to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,604.56,612.519,νεύκω να κρύφκνονται αλλά το,nˈefko na krˈifknodˌe alˌa to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,609.64,616.36,νιώθει το αισθάνεται Να το πάρω ένα,ɲˈoθi to esθˈanetˌe na to pˈaro ˌena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,612.519,618.76,πατί παρακάτω Βεβαίως τζαί να πω ότι,patˈi pˌarakˈato vevˈeos dzˈe na pˈo ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,616.36,622.04,θεωρώ ότι οι δικοί μας πάντα έχουν μια,θˌeorˈo ˈoti i ðicˈi mas pˈada ˌexun mɲa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,618.76,625.399,κρυφήν ελπίδα Άνθρωποι σαν,krifˈin elpˈið ˈanθropˌi sˈan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,622.04,627.48,εμέναν εν σκεφτονται με την ελπίδα,emˈenan ˈen sceftˈode me tin elpˈiða
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,625.399,630.6,Σκεφτούνται με το τώρα Ήντα μπορώ να κάνω,sceftˈude me to tˈora ˈida borˈo na kˈano
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,627.48,632.04,σήμερα Μπορώ να κάνω αυτό έννα το κάνω,sˈimerˌa borˈo na kˈano aftˈo ˈena to kˈano
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,630.6,635.079,Μπορώ να κάνω αυτόν το φάρμακον που ξέρω,borˈo na kˈano aftˈon do fˈarmakˌom bu ksˈero
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,632.04,638.8389999999999,ότι έννα πονέσω έννα το κάνω Ε μπορώ να,ˈoti ˈena ponˈeso ˈena to kˈano ˈepsilˌon borˈo na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,635.079,640.88,κάνω αυτή τη θεραπείαν που ε ξέρω ότι έννα,kˈano aftˈi ti θˌerapˈiam bu ˈepsilˌon ksˈero ˈoti ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,638.8389999999999,645.0,με αφήσει στο μονή μία εβδομάδα την,me afˈisi sto monˈi mˌia ˌevðomˈaða tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,640.88,647.0,κάνω Οπότε θεωρώ ότι η διαφορά στον,kˈano opˈote θˌeorˈo ˈoti i ðˌiaforˈa ston
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,645.0,649.9590000000001,περήγυρο σε σχέση με το άτομα που το,perˈijirˌo se sçˈesi me to ˈatomˌa pu to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,647.0,651.48,περνά είναι ότι το άτομα που το περνά,pernˈa ˌine ˈoti to ˈatomˌa pu to pernˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,649.9590000000001,653.76,τζαί θαρκούμαι που το περνά σαν εμένα,dzˈe θarkˈume pu to pernˈa sˈan emˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,651.48,657.68,δηλαδή εν είμαι αγνώμονας του ήντα,ðˌilaðˈi ˈen ˌime aɣnˈomonˌas tu ˈida
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,653.76,659.68,συμβαίνει Μια χαρά ε αντίληψη έχω το ήντα,simvˈeni mɲa xarˈa ˈepsilˌon adˈilipsˌi ˌexo to ˈida
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,657.68,662.519,συμβαίνει Απλά εν με ενδιαφέρει γιατί,simvˈeni aplˈa ˈen me ˌenðiafˈeri jatˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,659.68,665.839,εν μπορώ να κάνω κάτι Ενώ ο κόσμος,ˈen borˈo na kˈano kˈati enˈo o kˈosmos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,662.519,667.639,γύρω μου ε έννα ήθελε να κάνει κάτι έννα,jˈiro mu ˈepsilˌon ˈena ˈiθelˌe na kˈani kˈati ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,665.839,670.56,ήθελε να μπορεί να κάνει κάτι τζαί εν,ˈiθelˌe na borˈi na kˈani kˈati dzˈe ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,667.639,672.04,μπορεί Ναι Ε,borˈi nˈe ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,670.56,675.92,εν μπορεί για πάρα πολλούς λόγους,ˈen borˈi jˈa pˈara polˈuz lˈoɣus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,672.04,678.76,Καταρχάς είσαι παγκόσμιο φαινόμενο Ωχ,kˌatarxˈas ˌise paŋɡˈosmiˌo fenˈomenˌo ˈox
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,675.92,681.24,Είσαι είσαι η μοναδική περίπτωση ανά το,ˌise ˌise i mˌonaðicˈi perˈiptosˌi anˈa to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,678.76,685.76,παγκόσμιο Άρα αντιλαμβάνομαι ότι τζαί να,paŋɡˈosmiˌo ˈar ˌadilamvˈanomˌe ˈoti dzˈe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,681.24,688.24,ήθελες να κάνεις να κάνεις,ˈiθelˌez na kˈaniz na kˈanis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,685.76,690.24,αναζήτηση διαδικτυακή Θαρκούμαι αυτό,ˌanazˈitisˌi ðˌiaðˌiktiacˈi θarkˈume aftˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,688.24,691.8,βοηθάει για τον περιγύρο μου Άρα ξέρεις,voɪθˈai jˈa tom bˌerijˈiro mu ˈara ksˈeris
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,690.24,694.48,ότι αυτοί μπορούν Δε εν υπάρχουν στην,ˈoti aftˈi borˈun ðˈe ˈen ipˈarxun stin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,691.8,697.279,κριτικά στοιχεία δεδομένα Έτσι Ναι,krˌitikˈa stiçˈia ðˌeðomˈena ˈetsi nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,694.48,701.079,Τίποτα Τίποτα Τίποτα Γιατί υπάρχει,tˈipotˌa tˈipotˌa tˈipotˌa jatˈi ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,697.279,701.079,εδώ γεννάται τζαί η ελπίδα,eðˈo jenˈate dzˈe i elpˈiða
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,701.44,707.0,Ναι Να σου πω αν εν είχαμε τη την,nˈe na su pˈo an ˈen ˌixamˌe ti tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,705.56,708.9590000000001,ιατρικήν ομάδα μπορεί να ασχολείται με,ˌiatricˈin omˈaða borˈi n ˌasxolˈite me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,707.0,710.639,τα σαρκόματα στην Κύπρων μπορεί να σου,ta sarkˈomatˌa stiŋ ɡˈipron borˈi na su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,708.9590000000001,714.0,απαντολούσα πολύ διαφορετικά Αλλά,ˌapadolˈusa polˈi ðˌiafˌoretikˈa alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,710.639,717.639,επειδή έχω εμπιστοσύνη στη στους,ˌepiðˈi ˌexo ˌebistosˈini sti stus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,714.0,720.639,γιατρούς εδώ η έχουμε τζαί κάποιους πιο,jatrˈus eðˈo i ˌexumˌe dzˈe kˈapiˌus pçˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,717.639,724.2,σπουδαίους γιατρούς στον κόσμο που είναι,spuðˈeuz jatrˈus stoŋ ɡˈosmo pu ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,720.639,727.12,στην Κύπρο Είναι Κύπρο Ε οπότε,stiŋ ɡˈipro ˌine cˈipro ˈepsilˌon opˈote
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,724.2,729.56,πραγματικά είμαι τυχερή Ε τζαί αυτό,prˌaɣmatikˈa ˌime tˌiçerˈi ˈepsilˌon dzˈe aftˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,727.12,732.72,είναι τα ένα από τα πράγματα που,ˌine ta ˌen apˌo ta prˈaɣmatˌa pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,729.56,734.959,συζητούμε τζαί στην οικογένεια μας ότι,sˌizitˈume dzˈe stin ˌikojˈeɲa mas ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,732.72,736.76,εννεν ότι βρέθηκαμε με μία διάγνωση,ˈenen ˈoti vrˈeθikˌame me mˌia ðiˈaɣnosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,734.959,739.8389999999999,που έπρεπε να ψάχνουμε να πάμε στο,pu ˈeprepˌe na psˈaxnumˌe na pˈame sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,736.76,744.88,εξωτερικό να κάνω θεραπείες αλλού να,ˌeksotˌerikˈo na kˈano θˌerapˈies alˈu na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,739.8389999999999,747.959,να επότε μένεις εδώ λοιπόν τζαί ξεκινάς,na epˈote mˈenis eðˈo lipˈon dzˈe ksˌecinˈas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,744.88,750.44,τον αγώνα Λες πολύ ορθά εν μπορώ να,ton aɣˈona lˈes polˈi orθˈa ˈen borˈo na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,747.959,752.56,κάνω κάτι εγώ προσωπικά Αφήνω στα χέρια,kˈano kˈati eɣˈo prˌosopikˈa afˈino sta çˈeriˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,750.44,754.48,της επιστήμης αλλά ερχόμαστε σε ένα,tis ˌepistˈimis alˌa erxˈomastˌe se ˌena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,752.56,758.12,κύριο ζήτημα Μαρία μου,cˈiriˌo zˈitimˌa marˈia mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,754.48,759.519,δηλαδή μια επιθετική ασθένεια χρίζει,ðˌilaðˈi mɲa ˌepiθˌeticˈi asθˈeɲa xrˈizi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,758.12,762.48,άμεσης,ˈamesˌis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,759.519,765.04,αντιμετώπισης Πόσον άμεσα είναι τα,ˌadimetˈopisˌis pˈoson ˈamesˌa ˌine ta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,762.48,767.199,αντανακλαστικά του συστήματος υγείας της,ˌadanˌaklastikˈa tu sistˈimatˌos ijˈias tis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,765.04,769.48,Κύπρου του συστήματος υγείας της Κύπρου,cˈipru tu sistˈimatˌos ijˈias tis cˈipru
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,767.199,772.04,καρτζί σε ένα επιθετικό καρκίνο με,kardzˈi se ˌena ˌepiθˌetikˈo karcˈino me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,769.48,774.24,ειλικρίνεια,ˌilikrˈiɲa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,772.04,777.68,Να σου πω εγώ μπορώ να μιλήσω μόνο για,na su pˈo eɣˈo borˈo na milˈiso mˈono jˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,774.24,779.88,τη δική μου την γιατί αυτόν έζησα,ti ðicˈi mu tin jatˈi aftˈon ˈezisˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,777.68,783.399,Προφανώς,prˌofanˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,779.88,788.48,Ε τζαί να το ξαναπω ότι πραγματικά ήμουν,ˈepsilˌon dzˈe na to ksanˈapo ˈoti prˌaɣmatikˈa ˌimun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,783.399,792.68,τυχερή σε αυτό το τιτσίν Ε κατευθείαν,tˌiçerˈi se aftˈo to titsˈin ˈepsilˌon kˌatefθˈian
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,788.48,795.6,είχαμε πάει στη σωστή γιατρό Κατευθείαν,ˌixamˌe pˈai sti sostˈi jatrˈo kˌatefθˈian
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,792.68,798.6,ξεκινήσαμε έστω τζαί πειραματικά εν,ksˌecinˈisamˌe ˈesto dzˈe pˌiramˌatikˈa ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,795.6,800.8,ήταν πειραματικά αλλά τον αντέχουμε μία,ˌitam bˌiramˌatikˈa alˌa ton adˈexumˌe mˌia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,798.6,802.68,χημιοθεραπεία που είναι για παιδάκια Η,çˌimiˌoθerapˈia pu ˌine jˈa peðˈaca ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,800.8,805.36,χημιοθεραπεία είναι πάρα πάρα πάρα πολύ,çˌimiˌoθerapˈia ˌine pˈara pˈara pˈara polˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,802.68,808.0,δυνατή Οπότε τζαί γιατρός μου την πρώτη,ðˌinatˈi opˈote dzˈe jatrˈoz mu tim brˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,805.36,810.68,μέραν ε αυτόν που μου είπεν είναι ότι αν,mˈeran ˈepsilˌon aftˈom bu mu ˈipen ˌine ˈoti an
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,808.0,812.519,εν κάνουμε την πρώτη θεραπεία εν,ˈeŋ ɡˈanumˌe tim brˈoti θˌerapˈia ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,810.68,815.92,μπορούμε να ξέρουμε τίποτα Γιατί αν ο,borˈume na ksˈerumˌe tˈipotˌa jatˈi an ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,812.519,820.04,οργανισμός σου αντιδράσει τη θεραπεία ε,ˌorɣanismˈos su ˌadiðrˈasi ti θˌerapˈia ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,815.92,822.88,τζαί εν τη δεχτεί μετά έννα πρέπει να πάμε,dzˈe ˈen di ðextˈi metˈa ˈena prˈepi na pˈame
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,820.04,826.8,σε έναν όξα σε κάτι άλλο που εν έννα,se ˌenan ˈoksa se kˈati ˈalo pu ˈen ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,822.88,832.079,έχουμε τίποτα δεδομένα,ˌexumˌe tˈipotˌa ðˌeðomˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,826.8,835.8389999999999,τζαί οπότε κατευθείαν ε,dzˈe opˈote kˌatefθˈian ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,832.079,837.399,ξεκινήσαμε την θεραπεία τζαί έναδύο άλλα,ksˌecinˈisamˌe tin θˌerapˈia dzˈe ˈenaðˈio ˈala
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,835.8389999999999,840.88,πράγματα που έπρεπε να γίνουν πριν όπως,prˈaɣmatˌa pu ˈeprepˌe na jˈinum brˈin ˈopos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,837.399,845.24,το ένα άλλο ε είναι,to ˌen ˈalo ˈepsilˌon ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,840.88,846.519,κεντρική ε αχ πώς λέγεται ε για να μη,cˌedricˈi ˈepsilˌon ˈax pˈoz lˈejetˌe ˈepsilˌon janˌa mˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,845.24,848.72,χρησιμοποιούν τις φλέβες για τις,xrˌisimˌopiˈun dis flˈevez jˈa tis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,846.519,850.959,θεραπείες τζαί χρησιμοποιούν κεντρική,θˌerapˈies dzˈe xrˌisimˌopiˈuŋ ɡˌedricˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,848.72,854.24,ναρτηρία εννοώ κεντρική αρτυρία φλέβα,nˌartirˈia ˌenoˈo cˌedricˈi ˌartirˈia flˈeva
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,850.959,856.959,εν ξέρω πώς τα αλλαλούν Ε φλέβα,ˈeŋ ɡzˈero pˈos t ˌalalˈun ˈepsilˌon flˈeva
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,854.24,859.279,ε τζαί είναι πάρα πολύ βοηθητικό Ε τζαί,ˈepsilˌon dzˈe ˌine pˈara polˈi vˌoɪθitikˈo ˈepsilˌon dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,856.959,860.8389999999999,το δεύτερο ήταν να κάνω φύλαξη ο Αρίων,to ðˈefterˌo ˌitan na kˈano fˈilaksˌi o arˈion
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,859.279,865.24,Ε γιατί το πιο πιθανό είναι ότι έννα,ˈepsilˌon jatˈi to pçˈo pˌiθanˈo ˌine ˈoti ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,860.8389999999999,867.16,καταστρέφονταν με τα οάρια μου Ε που,kˌatastrˈefodˌan me ta oˈariˌa mu ˈepsilˌon pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,865.24,868.8,όλα αυτά έπρεπε να γίνουν μέσα σε,ˈol aftˈa ˈeprepˌe na jˈinun mˌesa se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,867.16,870.959,λιγότερον της μιας εβδομάδας για να μπω,liɣˈoterˌon diz mˌias ˌevðomˈaðaz janˌa bˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,868.8,873.279,κατευθείαν για θεραπεία Οπότε,kˌatefθˈian jˈa θˌerapˈia opˈote
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,870.959,874.56,μπαίνοντας τζαί στη θεραπείαν ήμουν πιλέ,bˈenodˌas dzˈe sti θˌerapˈian ˌimum bilˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,873.279,877.6,ταλαιπωρημένη από τα προηγούμενα,tˌalepˌorimˈeni apˌo ta proɪɣˈumenˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,874.56,880.199,πράγματα που έκανα σε μία εβδομάδα τζαί,prˈaɣmatˌa pu ˈekanˌa se mˌia ˌevðomˈaða dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,877.6,881.9590000000001,τους προηγούμενους περίπου δύο μήνες που,tus proɪɣˈumenˌus perˈipu ðˈio mˈines pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,880.199,886.24,έψαχνα να δω αν είναι κάτι τζαί όλοι μου,ˈepsaxnˌa na ðˈo an ˌine kˈati dzˈe ˈoli mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,881.9590000000001,888.32,λέγαν ότι εννεν τίποτα Ε γιατί,lˈeɣan ˈoti ˈenen dˈipotˌa ˈepsilˌon jatˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,886.24,891.639,θαρκούμαι ήταν,θarkˈume ˌitan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,888.32,894.8,σημαντικό ότι εμένα εν με ένοιαζε Άρα,sˌimadikˈo ˈoti emˈena ˈen me ˈeɲazˌe ˈara
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,891.639,897.88,ακόμη τζαί την ώρα που ήρθε η διάγνωση,akˈomi dzˈe tin ˈora pu ˈirθe i ðiˈaɣnosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,894.8,900.639,ε εν με φόβησε εν με νοιάξαν καθόλου,ˈepsilˌon ˈen me fˈovisˌe ˈen me ɲˈaksaŋ ɡaθˈolu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,897.88,905.48,εν έψαξα τίποτα,ˈen ˈepsaksˌa tˈipotˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,900.639,907.199,Ε αυτά θαρκούμαι από κει τζαί πέρα ντάξει,ˈepsilˌon aftˈa θarkˈume apˌo cˈi dzˈe pˈera dˈaksi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,905.48,908.88,Ναι εν εν ήξερα καν ότι ήταν οι,nˈe ˈen ˈen ˈikserˌa kˈan ˈoti ˌitan i
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,907.199,910.48,χημοθεραπείες Εγώ εν ήξερα καν ότι,çˌimoθˌerapˈies eɣˈo ˈen ˈikserˌa kˈan ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,908.88,913.759,είναι φάρμακο ότι τρέχει εν ήξερα,ˌine fˈarmakˌo ˈoti trˈeçi ˈen ˈikserˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,910.48,918.56,τίποτα Ε θαρκούμαι γι αυτό με βοήθησε,tˈipotˌa ˈepsilˌon θarkˈume jˈi aftˈo me voˈiθisˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,913.759,921.16,Ε όμως είναι ανθρώπινο κάποιες τιμές να,ˈepsilˌon ˈomos ˌine anθrˈopinˌo kˈapiˌes timˈez na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,918.56,923.32,πέφτεις Έτσι πέφτει Δηλαδή όσο τζαί να,pˈeftis ˈetsi pˈefti ðˌilaðˈi ˈoso dzˈe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,921.16,926.68,το προσπαθήσεις να το παλέψεις να,to prˌospaθˈisiz na to palˈepsiz na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,923.32,928.88,πέσεις Ε διότι είναι η χημιοθεραπεία,pˈesis ˈepsilˌon ðiˈoti ˌine i çˌimiˌoθerapˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,926.68,932.6,διότι είναι η έντονη θεραπεία τα οι,ðiˈoti ˌine i ˈedonˌi θˌerapˈia ta i
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,928.88,935.44,παρενέργειες τα συμπτώματα κταλπ Οπότε,pˌarenˈerjes ta sibtˈomatˌa ktˈalp opˈote
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,932.6,939.319,όταν πέφτει η Μαρία από πού αντρεί,ˈotam bˈefti i marˈi apˌo pˈu adrˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,935.44,941.199,δύναμη κι αν είναισαι από κάπου,ðˈinamˌi cˈi an ˈinesˌe apˌo kˈapu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,939.319,945.92,μπορείς να μοιραστείς μαζί μας ήντα είναι,borˈiz na mˌirastˈiz mazˌi mas ˈida ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,941.199,948.24,αυτόν το κάπου Υπάρχουν στοσίβια πάντα,aftˈon do kˈapu ipˈarxun stosˈiviˌa pˈada
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,945.92,949.72,υπάρχουν τζαί πολλές φορές θαρκούμαι ότι το,ipˈarxun dzˈe polˈes forˈes θarkˈume ˈoti to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,948.24,952.399,μυαλό μας παίζει,mˌialˈo mas pˈezi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,949.72,956.36,παιχνίδια που είναι τζαί δύσκολα τζαί,pexnˈiðja pu ˌine dzˈe ðˈiskolˌa dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,952.399,959.319,επικίνδυνα να το πω Ε τζαί,ˌepicˈinðinˌa na to pˈo ˈepsilˌon dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,956.36,962.6,εμέναν στην στον πρώτον κυκλοθεραπιών,emˈenan stin stom brˈotoŋ ɡˌikloθˌerapçˈon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,959.319,964.399,που έκανα στην έταρτη θεραπεία είχα,pu ˈekanˌa stin ˈetartˌi θˌerapˈia ˌixa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,962.6,966.16,φτάσει σε σημείο να πω εν έννα ξανακάνω,ftˈasi se simˈio na pˈo ˈen ˈena ksˌanakˈano
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,964.399,968.48,χημιοθεραπεία τζαί εν με νοιάζει ήντα έννα,çˌimiˌoθerapˈia dzˈe ˈen me ɲˈazi ˈida ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,966.16,971.8,γίνει τζαί το είχα ανακοινώσει συνήθως,jˈini dzˈe to ˌix ˌanacinˈosi sinˈiθos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,968.48,974.36,ότι ανακοινώνω γάμωτο Ε τζαί τζείνη τη,ˈoti ˌanacinˈono ɣˈamotˌo ˈepsilˌon dzˈe dzˈini ti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,971.8,977.16,φορά μετά εντάξει ήταν λόγω των,forˈa metˈa edˈaksi ˌitan lˈoɣo ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,974.36,979.6,παρενέργειών Μετά οι παρενέργειες,pˌarenˈerjˈon metˈa i pˌarenˈerjes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,977.16,983.639,καταλαγιάζαν Σιγάσιγά ήμουνα καλύτερα,kˌatalajˈazan siɣˈasiɣˈa ˈimunˌa kalˈiterˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,979.6,985.6,τζαί θυμάμαι ότι σε τζείνη τη φάση αυτόν,dzˈe θimˈame ˈoti se dzˈini ti fˈasi aftˈon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,983.639,987.079,που με είχε κρατήσει είναι ότι,pu me ˌiçe kratˈisi ˌine ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,985.6,990.68,σκεφτόμουνα,sceftˈomunˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,987.079,994.279,ότι στην οικογένεια μας έχουμε,ˈoti stin ˌikojˈeɲa mas ˌexumˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,990.68,996.44,πεντάχρονα που συνήθως η ασθένεια αυτή,pedˈaxronˌa pu sinˈiθos i asθˈeɲ aftˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,994.279,1001.8,εμφανίζεται σε μωρά,ˌemfanˈizetˌe se morˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,996.44,1005.12,ε τζαί τη τζαί τις φίλες τη των ανυψιών,ˈepsilˌon dzˈe ti dzˈe tis fˈiles ti ton ˌanipsiˈon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1001.8,1009.12,μου τζαί τα τον περήγυρο τζαί θυμάμαι ότι,mu dzˈe ta tom berˈijirˌo dzˈe θimˈame ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1005.12,1011.68,έλεγα ότι ευτυχώς που με διάλεξαν εμένα,ˈeleɣˌa ˈoti ˌeftixˈos pu me ðiˈaleksˌan emˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1009.12,1013.68,τζαί όι κάποιον από τα παιδάκια μας ε,dzˈe ˈoɪ kˈapiˌon apˌo ta peðˈaca mas ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1011.68,1016.44,τζαί ότι γ αυτόν πρέπει να συνεχίσω να,dzˈe ˈoti ɣˈam aftˈom brˈepi na sˌineçˈiso na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1013.68,1019.27,αντέξω τζαί να μην τα βάλω χαμαί ποτέ Ε,adˈekso dzˈe na mˈin da vˈalo xamˈe potˈe ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1016.44,1021.199,τζαί είχα πάρει δύναμη είναι από αυτόν,dzˈe ˌixa pˈari ðˈinamˌi ˌine apˌo aftˈon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1021.199,1028.36,Μετά μετά η πορεία ήταν τέτοια,metˈa metˈa i porˈia ˌitan dˈetiˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1024.4,1031.959,που ενε χρειάστηκε να είμαι ποτέ τόσον,pu ˈene xrçˈasticˌe na ˌime potˈe tˈoson
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1028.36,1033.799,τόσον ακριβής στο από πο έννα,tˈoson ˌakrivˈis sto apˌo pˈo ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1031.959,1036.919,πάρω δύναμη Γιατί η ίδια η ζωή ήταν η,pˈaro ðˈinamˌi jatˈi i ˈiðja i zoˈi ˌitan ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1033.799,1041.079,δύναμη μετά Πιστεύεις στο Θεό,ðˈinamˌi metˈa pistˈevis sto θeˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1036.919,1042.76,Ναι Τζαί τζαί πιστεύω τζαί με βοηθά τζαί,nˈe dzˈe dzˈe pistˈevo dzˈe me voɪθˈa dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1041.079,1045.88,είναι κάτι που γενικότερα γιατί σε,ˌine kˈati pu jˌenikˈoterˌa jatˈi se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1042.76,1049.52,άκουσα προηγουμένως να λες ήταν λόγω της,ˈakusˌa prˌoɪɣumˈenoz na lˈes ˌitan lˈoɣo tis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1045.88,1052.28,θ θεία δύναμη Ναι Ήταν η μέρα της,θˈita θˈia ðˈinamˌi nˈe ˌitan i mˈera tis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1049.52,1055.16,γιορτής μου Εγώ γιορτάζω του,jortˈiz mu eɣˈo jortˈazo tu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1052.28,1057.48,Σεπτέμβρη Ε τζαί του Σεπτέμβρη που,septˈemvri ˈepsilˌon dzˈe tu septˈemvri pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1055.16,1060.96,κάναμε τη γιορτή μου στην Παναγία στο,kˈanamˌe ti jortˈi mu stim bˌanajˈia sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1057.48,1062.24,γέρι που την κάνω κάθε χρονό Ε,jˈeri pu tiŋ ɡˈano kˈaθe xronˈo ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1060.96,1063.88,συζητούσα μαζί με τη θεία μου που ήταν,sˌizitˈusa mazˌi me ti θˈia mu pu ˌitan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1062.24,1066.16,γιατρός τζαί της έλεγα όι τζαί της λαλώ,jatrˈos dzˈe tis ˈeleɣˌa ˈoɪ dzˈe tiz lalˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1063.88,1067.72,άμα βγει τζαί από το γενικό νοσοκομείο να,ˈama vjˈi dzˈe apˌo to jˌenikˈo nˌosokomˈio na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1066.16,1069.919,αρνητικών το αποτέλεσμα ποια είναι ποιο,ˌarnitikˈon do ˌapotˈelesmˌa pˈia ˌine pˈio
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1067.72,1071.52,είναι το επόμενο στάδιο Δηλαδή ήντα έννα,ˌine to epˈomenˌo stˈaðiˌo ðˌilaðˈi ˈida ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1069.919,1074.64,ψάξουμε ένα άλλο Είχαμε ψάξει τα πάντα,psˈaksumˌe ˌen ˈalo ˌixamˌe psˈaksi ta pˈada
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1071.52,1076.08,τζαί εν βρίσκαμε τίποτα αλλά κάτι ήταν,dzˈe ˈen vrˈiskamˌe tˈipotˌa alˌa kˈati ˌitan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1074.64,1080.28,Ε τζαί μου,ˈepsilˌon dzˈe mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1076.08,1082.4,λέει τζαί σκεφτόμασταν τζαί οι δύο Ε τζαί,lˈei dzˈe sceftˈomastˌan dzˈe i ðˈio ˈepsilˌon dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1080.28,1085.039,την επόμενη μέρα το πρωί δηλαδή στις,tin epˈomenˌi mˈera to proˈi ðˌilaðˈi stis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1082.4,1087.72,του μήνα που ήταν η γιορτή ε έτρεξε,tu mˈina pu ˌitan i jortˈi ˈepsilˌon ˈetreksˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1085.039,1091.4,λίγο νέμα η μούττη μου τζαί πήγα κατευθείαν,lˈiɣo nˈema i mˈuti mu dzˈe pˈiɣa kˌatefθˈian
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1087.72,1094.48,οριλά τζαί μόλις έβαλα μέσα την κάμερα ε,ˌorilˈa dzˈe mˈolis ˈevalˌa mˌesa tiŋ ɡˈamerˌa ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1091.4,1098.64,ήταν τον πρώτο παθή,ˌitan dom brˈoto paθˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1094.48,1101.64,Ήταν ήταν θεία θεία τύχη,ˌitan ˌitan θˈia θˈia tˈiçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1098.64,1104.96,Ε ήταν δώρος Θεού,ˈepsilˌon ˌitan ðˈoros θeˈu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1101.64,1108.2,Παρόλα αυτά γενικότερα εν μίλω για την,parˈol aftˈa jˌenikˈoterˌa ˈen mˈilo jˈa tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1104.96,1110.96,για την πίστη μου γιατί,jˈa tim bˈisti mu jatˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1108.2,1113.799,θεωρώ ότι είναι αρκετά προσωπικό τζαί,θˌeorˈo ˈoti ˌine ˌarcetˈa prˌosopikˈo dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1110.96,1115.72,θεωρώ ότι εν πρέπει να κρυβόμαστε πίσω,θˌeorˈo ˈoti ˈem brˈepi na krivˈomastˌe pˈiso
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1113.799,1118.2,από το Θεόν όξα πίσω από το ότι είμαστε,apˌo to θeˈon ˈoksa pˈiso apˌo to ˈoti ˌimastˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1115.72,1119.76,χριστιανοί όξα πίσω από το ότι δηλαδή αυτό,xrˌistianˈi ˈoksa pˈiso apˌo to ˈoti ðˌilaðˈi aftˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1118.2,1123.0,είναι δώρο Είναι δωρομάς έσιει Έσιει,ˌine ðˈoro ˌine ðˌoromˈas ˈesji ˈesji
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1119.76,1124.52,δοθεί Όι έτσι Απλά για παράδειγμα,ðoθˈi ˈoɪ ˈetsi aplˈa jˈa parˈaðiɣmˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1123.0,1127.88,ξέρω κόσμο,ksˈero kˈosmo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1124.52,1130.36,που προσεύχεται,pu prosˈefçetˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1127.88,1131.72,Δηλαδή τώρα έννα μου πεις μπορεί να,ðˌilaðˈi tˈora ˈena mu pˈiz borˈi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1130.36,1135.28,προσεύχε ρε τζαί ένας μουσουλμάνος,prosˈefçe rˈe dzˈe ˌenaz mˌusulmˈanos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1131.72,1137.96,προφανώς τζαί ένας ε ξέρω γω βουδιστής,prˌofanˈos dzˈe ˌenas ˈepsilˌon ksˈero ɣˈo vˌuðistˈis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1135.28,1141.84,τζαί αλλά ήντα χάνει να είμαστε,dzˈe alˌa ˈida xˈani na ˌimastˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1137.96,1145.679,χριστιανοι Εμ η προσευχή είναι κάτι που,xrˌistiˈani ˈem i prˌosefçˈi ˌine kˈati pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1141.84,1148.12,σου δίνει δύναμη Ε είναι κάτι πάρα πολύ,su ðˈini ðˈinamˌi ˈepsilˌon ˌine kˈati pˈara polˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1145.679,1151.0,προσωπικό με προσευχή Ανλαμβάνω Γιατί,prˌosopikˈo me prˌosefçˈi ˌanlamvˈano jatˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1148.12,1153.679,σε ρωτώ όμως Γιατί αυτή η δοκιμασία,se rotˈo ˈomoz jatˈi aftˈi i ðˌocimasˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1151.0,1157.24,επέτρεψε στο να έρθεις,epˈetrepsˌe sto na ˈerθis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1153.679,1161.76,κοντά με γονείς τον οποίον τα παιδιά,kodˈa me ɣonˈis ton opˈion da pˌeðiˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1157.24,1165.6,τους ε υποφέρουν Έτσι τζαί έρχεται η,tus ˈepsilˌon ˌipofˈerun ˈetsi dzˈe ˈerçetˌe ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1161.76,1167.64,Μαρία που περνά ε κάποι με έναν αγώνα με,marˈia pu pernˈa ˈepsilˌon kˈapi me ˌenan aɣˈona me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1165.6,1171.48,θεραπείες με διάφορα με τα πάνω της με,θˌerapˈiez me ðiˈaforˌa me ta pˈano tiz me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1167.64,1173.96,τα χαμαί της τζαί χτυγούν τα τηλέφωνα ε,ta xamˈe tis dzˈe xtiɣˈun da tilˈefonˌa ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1171.48,1176.2,όπως είναι φυσιολογικόν τζαί λογικό,ˈopos ˌine fˌisjolˌojikˈon dzˈe lˌojikˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1173.96,1178.36,μια ένας παπάς τζαί τουλάχιστο Μαρία,mɲa ˌenas papˈas dzˈe tulˈaçistˌo marˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1176.2,1181.0,συγγνώμη που σε ενοχλώ αλλά θέλω να με,siŋɡnˈomi pu se ˌenoxlˈo alˌa θˈelo na me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1178.36,1184.72,βοηθήσεις γιατί διαγνώστηκε η κόρη μου ο,voɪθˈisiz jatˈi ðˌiaɣnˈosticˌe i kˈori mu ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1181.0,1188.2,γυμνα με καρκίνο τζαί πρέπει,jˈimna me karcˈino dzˈe prˈepi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1184.72,1190.64,να το πω να το ομολογήσω ότι τζαί εγώ,na to pˈo na to ˌomolojˈiso ˈoti dzˈe eɣˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1188.2,1192.84,έτσι σε γνώρισα μέσα από κάποιον κοντινό,ˈetsi se ɣnˈorisˌa mˌes apˌo kˈapiˌoŋ ɡˌodinˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1190.64,1195.72,μου πρόσωπο έτσι δηλαδή εν το,mu prˈosopˌo ˈetsi ðˌilaðˈi ˈen do
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1192.84,1198.6,άκουσα το το βίωσα εν,ˈakusˌa to to vˈiosˌa ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1195.72,1202.48,μέρη πώς πώς γίνεται αυτό τζαί πώς,mˈeri pˈos pˈoz jˈinetˌe aftˈo dzˈe pˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1198.6,1202.48,διαχειρίζεσαι μια τέτοια κατάσταση,ðˌiaçirˈizesˌe mɲa tˈetiˌa katˈastasˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1204.84,1208.36,Να πω,na pˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1205.88,1209.32,ότι επειδή αυτή η αντίδραση για μένα,ˈoti ˌepiðˈi aftˈi i adˈiðrasˌi jˈa mˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1208.36,1211.28,είναι η,ˌine ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1209.32,1213.919,φυσιολογική δηλαδή εν έννα μπορούσα να,fˌisjolˌojicˈi ðˌilaðˈi ˈen ˈena borˈusa na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1211.28,1219.28,αντιδράσω διαφορετικά,ˌadiðrˈaso ðˌiafˌoretikˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1213.919,1221.679,θαρκούμαι Ε αυτόν είναι που προσπαθώ να,θarkˈume ˈepsilˌon aftˈon ˌine pu prˌospaθˈo na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1219.28,1224.36,περάσω τζαί στον κόσμο ότι μία διάγνωση,perˈaso dzˈe stoŋ ɡˈosmo ˈoti mˌia ðiˈaɣnosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1221.679,1228.159,εννεν το πάππαλλα του κόσμου Ότι,ˈenen do pˈapalˌa tu kˈosmu ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1224.36,1228.159,διάγνωση τζαί να είναι,ðiˈaɣnosˌi dzˈe na ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1230.44,1236.48,Πόσο μάλλον όμως είναι μία ευθύνη που,pˈoso mˈalon ˈomos ˌine mˌia efθˈini pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1232.679,1239.6,ήρθε σε μένα χωρίς να το περιμένω χωρίς,ˈirθe se mˈena xorˈiz na to pˌerimˈeno xorˈis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1236.48,1242.4,να το ζητήσω Ε,na to zitˈiso ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1239.6,1246.24,τζαί όμως είναι σοβαρή ευθύνη Είναι,dzˈe ˈomos ˌine sˌovarˈi efθˈini ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1242.4,1248.44,σοβαρή ευθύνη γιατί αν εν έχουμε,sˌovarˈi efθˈini jatˈi an ˈen ˌexumˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1246.24,1250.88,άτομα που να μιλούν τζαί να,ˈatomˌa pu na milˈun dzˈe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1248.44,1252.72,προσεγγίζουν όι μόνο τον καρκίνο τζαί,prˌoseŋɡˈizun ˈoɪ mˈono toŋ ɡarcˈino dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1250.88,1256.12,άλλου είδους ασθένειες τζαί άλλου είδους,ˈalu ˈiðus asθˈeɲes dzˈe ˈalu ˈiðus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1252.72,1260.679,καταστάσεις έννα πω εγώ Ναι Με αυτόν τον,kˌatastˈasis ˈena pˈo eɣˈo nˈe me aftˈon don
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1256.12,1263.08,τρόπον τότε ήντα κάνουμε,trˈopon dˈote ˈida kˈanumˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1260.679,1266.72,δηλαδή,ðˌilaðˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1263.08,1270.36,ε κάποια πράγματα είναι,ˈepsilˌon kˈapiˌa prˈaɣmatˌa ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1266.72,1272.799,περίεργα τζαί πλέον ε μετά τη μετάσταση,perˈierɣˌa dzˈe plˈeon ˈepsilˌon metˈa ti metˈastasˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1270.36,1274.52,μου εν είμαι τζαί εγώ κάθε μέρα ε το,mu ˈen ˌime dzˈe eɣˈo kˈaθe mˈera ˈepsilˌon to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1272.799,1277.76,ίδιο καλά,ˈiðiˌo kalˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1274.52,1281.159,Οπότε κάποιες φορές μου είναι δύσκολο να,opˈote kˈapiˌes forˈez mu ˌine ðˈiskolˌo na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1277.76,1284.24,απαντήσω Ε έννα βρω βέβαια το χρόνο έννα,ˌapadˈiso ˈepsilˌon ˈena vrˈo vˈeveˌa to xrˈono ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1281.159,1289.0,το κάνω την ώρα που πρέπει,to kˈano tin ˈora pu prˈepi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1284.24,1293.0,Όμως εννεν ότι ο καρκίνος που ζω η,ˈomos ˈenen ˈoti o karcˈinos pu zˈo ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1289.0,1299.52,καθημερινότητα μου είναι πώς να το πω ε,kˌaθimˌerinˈotitˌa mu ˌine pˈoz na to pˈo ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1293.0,1301.799,όσον ε καλή φαίνεται όσον τέτοια αλλά,ˈoson ˈepsilˌon kalˈi fˈenetˌe ˈoson dˈeti alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1299.52,1303.919,έτσι είμαι σαν άνθρωπος οπότε εν ξέρω,ˈetsi ˌime sˈan ˈanθropˌos opˈote ˈeŋ ɡzˈero
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1301.799,1306.799,να σου απαντήσω κάτι άλλο εν έννα,na su ˌapadˈiso kˈati ˈalo ˈen ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1303.919,1310.44,μπορούσα να γνωήσω οποιοσδήποτε,borˈusa na ɣnoˈiso ˌopiosðˈipotˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1306.799,1312.039,χρειάζεται ε τη δική μου τη βοήθεια,xrçˈazetˌe ˈepsilˌon ti ðicˈi mu ti voˈiθça
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1310.44,1313.52,Σίγουρα είμαι βέβαιος πως η δική σου η,sˈiɣurˌa ˌime vˈeveˌos pˈos i ðicˈi su ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1312.039,1315.159,βοήθεια η δική σου η,voˈiθça i ðicˈi su ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1313.52,1318.88,μαρτυρία,mˌartirˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1315.159,1321.679,εμ στην αρκημός τουλάχιστο απαλύνει κάποιος,ˈem stin ˌarcimˈos tulˈaçistˌo ˌapalˈini kˈapiˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1318.88,1324.64,απαλύνει κάπως τον μόνο Διότι σε ένα,ˌapalˈini kˈapos ton mˈono ðiˈoti se ˌena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1321.679,1327.32,αδιέξοδο περιμένεις να ακούσεις έναν,ˌaðiˈeksoðˌo pˌerimˈeniz n akˈusis ˌenan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1324.64,1328.679,άνθρωπο που έσιει αντίστοιχη εμπειρία Να,ˈanθropˌo pu ˈesji adˈistiçˌi ˌebirˈia na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1327.32,1330.64,νιώσεις ότι εν είσαι μόνος σου ρε παιδί,ɲˈosis ˈoti ˈen ˌise mˈonos su rˈe peðˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1328.679,1333.039,μου ότι κάποιος ανταποκρίθηκε τζαί εν,mu ˈoti kˈapiˌos ˌadapokrˈiθicˌe dzˈe ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1330.64,1334.76,είναι απλά το κράτος όξα ένας ψυχολόγος,ˌine aplˈa to krˈatos ˈoksa ˌenaz psˌixolˈoɣos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1333.039,1336.799,που υπάρχουν αξιόλογοι άνθρωποι τζιαμέ στο,pu ipˈarxun ˌaksiˈolojˌi ˈanθropˌi dzˌiamˈe sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1334.76,1338.32,παιδογκολογικό Έτσι κάνουν πάρα πολύ,pˌeðoŋɡˌolojikˈo ˈetsi kˈanum bˈara polˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1336.799,1340.64,καλή δουλειά έννα πρέπει να πούμε τζαί,kalˈi ðuʎˈa ˈena prˈepi na pˈume dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1338.32,1343.48,μπράβο τους Ε κάνουν τη δουλειά τους,brˈavo tus ˈepsilˌon kˈanun di ðuʎˈa tus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1340.64,1346.6,βασικά αλλά είναι διάφορο δηγό να ακούς,vˌasikˈa alˌa ˌine ðiˈaforˌo ðiɣˈo n akˈus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1343.48,1349.2,μιαν άλλη αντίστοιχη ανθρώπινη ιστορία,mˈian ˈali adˈistiçˌi anθrˈopinˌi ˌistorˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1346.6,1352.48,στην γειτονιά σου στην πόλη σου στη,stin jˌitoɲˈa su stim bˈoli su sti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1349.2,1354.0,χώρα σου έτσι τζαί πόσο μάλλον αυτός ο,xˈora su ˈetsi dzˈe pˈoso mˈalon aftˈos ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1352.48,1357.36,άνθρωπος,ˈanθropˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1354.0,1359.679,ε έσιει όλα εκείνα τα στοιχεία που έννα,ˈepsilˌon ˈesji ˈola ecˈina ta stiçˈia pu ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1357.36,1361.48,βοηθήσουν έννα σου δύναμη τζαί μάλλον την,voɪθˈisun ˈena su ðˈinamˌi dzˈe mˈalon din
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1359.679,1362.6,αξίωση είναι τζαί την τρέλα που έχεις,aksˈiosˌi ˌine dzˈe tin drˈela pu ˌeçis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1361.48,1364.919,Ναι,nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1362.6,1369.919,τζαί το που έχεις,dzˈe to pu ˌeçis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1364.919,1372.32,γίνεται αφού ε στο λεγα τζαί πριν ότι,jˈinetˌe afˈu ˈepsilˌon sto lˈeɣa dzˈe prˈin ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1369.919,1374.919,τελευταίων καιρών,tˌeleftˈeoŋ cerˈon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1372.32,1377.44,που κάποιες δράσεις που κάνουμε είναι,pu kˈapiˌez ðrˈasis pu kˈanumˌe ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1374.919,1380.08,πιο οργανωμένες οπότε υπάρχουν κάποια,pçˈo ˌorɣanomˈenes opˈote ipˈarxuŋ ɡˈapiˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1377.44,1382.76,πλαίσια υπάρχουν τέτοια εγώ νιώθω ότι,plˈesja ipˈarxun dˈetiˌa eɣˈo ɲˈoθo ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1380.08,1384.96,πιέζομαι δηλαδή ότι έννα πάμε κάπου τζαί,pçˈezomˌe ðˌilaðˈi ˈoti ˈena pˈame kˈapu dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1382.76,1388.44,πρέπει να συμπεριφερθώ με συγκεκριμένο,prˈepi na sˌiberˌiferθˈo me sˌiŋɡekrimˈeno
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1384.96,1389.96,τρόπο νιώθω ότι δυσκολεύομαι λαλώ δηλαδή,trˈopo ɲˈoθo ˈoti ðˌiskolˈevomˌe lalˈo ðˌilaðˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1388.44,1394.12,τώρα μπορούμε να κάνουμε καμιά μπελάρα,tˈora borˈume na kˈanumˌe kˌamiˈa belˈara
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1389.96,1396.799,δηλαδή είμαι κάποτε Έτσι ξέρεις ε να,ðˌilaðˈi ˌime kˈapotˌe ˈetsi ksˈeris ˈepsilˌon na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1394.12,1399.679,πάμε τζαί στα πιο έτσι,pˈame dzˈe sta pçˈo ˈetsi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1396.799,1401.48,ε αυτονόητα που στην Κύπρο ίσως να μην,ˈepsilˌon ˌaftonˈoɪta pu stiŋ ɡˈipro ˈisoz na mˈin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1399.679,1403.24,είναι τόσο αυτονόητο Συγγνώμη που εν,ˌine tˈoso ˌaftonˈoɪto siŋɡnˈomi pu ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1401.48,1405.36,μπορώ να αποβάλλω την δημοσιογραφική μου,borˈo n ˌapovˈalo tin ðˌimosjˌoɣraficˈi mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1403.24,1408.52,ιδιότητα Αλλά,ˌiðiˈotit alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1405.36,1411.159,ε θέλω να πάμε στο εξής τιτσίν Ένας,ˈepsilˌon θˈelo na pˈame sto eksˈis titsˈin ˌenas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1408.52,1414.96,άνθρωπος όπως τη Μαρί που,ˈanθropˌos ˈopos ti marˈi pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1411.159,1416.159,θέλει τζαί μπορεί να είναι ενεργή έτσι,θˈeli dzˈe borˈi na ˌine ˌenerjˈi ˈetsi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1414.96,1419.159,θέλει να,θˈeli na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1416.159,1421.4,προσφέρει ε φωνάζει του με τον τρόπον,prosfˈeri ˈepsilˌon fonˈazi tu me ton drˈopon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1419.159,1424.919,της Ευκαιρία μηδέν με,tis ˌefcerˈia miðˈen me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1421.4,1427.08,τα εν έπρεπε θεσμοθετημένα η πολιτεία,ta ˈen ˈeprepˌe θˌesmoθˌetimˈena i pˌolitˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1424.919,1429.679,να δίνει ευκαιρίες σε αυτούς τους,na ðˈini ˌefcerˈies se aftˈus tus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1427.08,1432.88,ανθρώπους τζαί,anθrˈopus dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1429.679,1435.24,βεβαίως να ε να έχουν τζαί ένα εισόδημα,vevˈeoz na ˈepsilˌon na ˌexun dzˈe ˌena isˈoðimˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1432.88,1437.679,Δηλαδή τούτοοι ανθρώποι βγαίνουν που την,ðˌilaðˈi tˈutoˌi anθrˈopi vjˈenum bu tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1435.24,1438.44,αγορα εργασίας Εκ των πραγμάτων εν,aɣˈora ˌerɣasˈias ek tom braɣmˈaton ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1437.679,1440.84,είναι,ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1438.44,1444.039,είδη εν μπορεί η Μαρία σήμερα να πάει,ˈiði ˈen borˈi i marˈia sˈimerˌa na pˈai
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1440.84,1446.24,να δικάσει μια υπόθεση Όι Έτσι στο,na ðikˈasi mɲa ipˈoθesˌi ˈoɪ ˈetsi sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1444.039,1449.0,δικαστήριο είσαι νομικός Πήρες το,ðˌikastˈiriˌo ˌise nˌomikˈos pˈires to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1446.24,1451.24,πτυχείο σου ε άδεια εξασκήσεως,ptiçˈio su ˈepsilˌon ˈaðça ˌeksascˈiseˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1449.0,1452.52,επαγγέλματος Σωστά εν μπορείς να,ˌepaŋɡˈelmatˌos sostˈa ˈen borˈiz na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1451.24,1454.48,πάεις στο δικαστήριο εν μπορείς να,pˈais sto ðˌikastˈiriˌo ˈen borˈiz na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1452.52,1456.039,πάεις να γράψεις μια εταιρεία στον,pˈaiz na ɣrˈapsiz mɲa ˌeterˈia ston
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1454.48,1457.96,εύφορον τζαί ένα κότα Ο ύτε ένα,ˈeforˌon dzˈe ˌena kˈota o ˈite ˌena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1456.039,1461.0,γυμναστό Ούτε ένα,jˌimnastˈo ˈute ˌena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1457.96,1463.559,γυμναστεί Ντάξει Πιστεύω ότι βρίσκεις,jˌimnastˈi dˈaksi pistˈevo ˈoti vrˈiscis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1461.0,1465.48,διάφορους άλλους τρόπους εναλλακτηγούς,ðiˈaforˌus ˈalus trˈopus ˌenalˌaktiɣˈus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1463.559,1467.52,Άρα ήντα πρέπει να κάνει πέμα στην,ˈara ˈida prˈepi na kˈani pˈema stin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1465.48,1469.88,εισήγησή σου Ήντα πρέπει να κάμει το,isˈijisˈi su ˈida prˈepi na kˈami to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1467.52,1472.36,κράτος σε αυτή την περίπτωση Αν είσαι,krˈatos se aftˈi tim berˈiptosˌi an ˌise
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1469.88,1475.559,καρτζί στον πρόεδρο της δημοκρατίας,kardzˈi stom brˈoeðrˌo tiz ðˌimokratˈias
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1472.36,1475.559,ήντα έννα του έλεγες ήντα έννα του,ˈida ˈena tu ˈelejˌes ˈida ˈena tu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1476.919,1485.08,ζητούσες Ότι έχω καταλάβει,zitˈuses ˈoti ˌexo kˌatalˈavi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1480.679,1488.84,στο σχεδόν δύο χρόνια που,sto sçeðˈon ðˈio xrˈoɲa pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1485.08,1490.96,είμαι σε αυτή τη θέση είναι ότι τζαί να,ˌime se aftˈi ti θˈesi ˌine ˈoti dzˈe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1488.84,1492.6,προσπαθήσεις εν μπορείς Ενώ τζαί να,prˌospaθˈisis ˈen borˈis enˈo dzˈe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1490.96,1495.52,προσπαθήσω εν μπορώ να δουλέψω όπως,prˌospaθˈiso ˈen borˈo na ðulˈepso ˈopos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1492.6,1500.44,δούλευα πριν Δούλευα ώρες την ημέρα,ðˈulevˌa prˈin ðˈulevˌa ˈores tin imˈera
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1495.52,1504.48,Ε οπότε εκ των πραγμάτων εν γίνεται,ˈepsilˌon opˈote ek tom braɣmˈaton ˈen jˈinetˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1500.44,1505.64,Ε αν μιλούμε για έναν άτομο το οποίο,ˈepsilˌon an milˈume jˈa ˌenan ˈatomˌo to opˈio
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1504.48,1507.76,εν έσιει,ˈen ˈesji
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1505.64,1511.039,στήριξη,stˈiriksˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1507.76,1513.84,ε απ την οικογένειαν τζαί από θεούς τζαί,ˈepsilˌon ˈap tin ˌikojˈeɲan dzˈe apˌo θeˈus dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1511.039,1518.96,αγγέλους να το πω έτσι εν μπορείς να,aŋɡˈeluz na to pˈo ˈetsi ˈen borˈiz na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1513.84,1518.96,προχωρήσεις Από κει τζαί πέρα θεωρώ όμως,prˌoxorˈisis apˌo cˈi dzˈe pˈera θˌeorˈo ˈomos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1521.0,1527.279,ότι πάλι πρέπει να το πάρω λίγο στο πιο,ˈoti pˈali prˈepi na to pˈaro lˈiɣo sto pçˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1524.279,1530.88,προσωπικό Άτομα σαν εμένα έννα μπορούσαν,prˌosopikˈo ˈatomˌa sˈan emˈena ˈena borˈusan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1527.279,1533.2,να συνεισφέρουν πάρα πολύ σε,na sˌinisfˈerum bˈara polˈi se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1530.88,1535.039,γενικότερα σε ότι έσιει να κάνει σχέση,jˌenikˈoterˌa se ˈoti ˈesji na kˈani sçˈesi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1533.2,1537.559,με τον καρκίνο με τους,me toŋ ɡarcˈino me tus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1535.039,1540.64,καρκινοπαθείς ε με άτομα που βιώνουν,kˌarcinˌopaθˈis ˈepsilˌon me ˈatomˌa pu viˈonun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1537.559,1542.96,αντίστοιχες καταστάσεις με όλα αυτά,adˈistiçˌes kˌatastˈasiz me ˈol aftˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1540.64,1544.919,Έτσι είναι κάτι που εν γίνεται Δηλαδή,ˈetsi ˌine kˈati pu ˈen jˈinetˌe ðˌilaðˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1542.96,1547.2,αν έννα μπορούσες να πάεις,an ˈena borˈusez na pˈais
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1544.919,1550.64,θεσμοθετημένα μέσω μιας συνεργασίας από,θˌesmoθˌetimˈena mˈeso mˌias sˌinerɣasˈias apˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1547.2,1553.279,το Ηπειρίων παιδείας στα σχόλια Ναι Ας,to ˌipirˈiom beðˈias sta sxˈoʎa nˈe ˈas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1550.64,1558.36,πούμε προχθές εκουβαλούσαμε τη βαλίτισαν,pˈume proxθˈes ˌekuvalˈusamˌe ti valˈitisˌan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1553.279,1560.08,της Χριστοδούλας ε σε όλη την Κύπρο τζαί,tis xrˌistoðˈulas ˈepsilˌon se ˈoli tiŋ ɡˈipro dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1558.36,1561.72,τελευταίος σταθμός ήταν η αεροδαφούσα να,tˌeleftˈeos staθmˈos ˌitan i ˌaerˌoðafˈusa na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1560.08,1564.32,το δώσουμε στον πρόεδρο της δημοκρατίας,to ðˈosumˌe stom brˈoeðrˌo tiz ðˌimokratˈias
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1561.72,1567.039,να περπατήσουμε να πάμε πίσω,na pˌerpatˈisumˌe na pˈame pˈiso
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1564.32,1569.96,Ε αυτή η βαλίτσα έννα μπορούσε να γυρίσει,ˈepsilˌon aftˈi i valˈitsa ˈena borˈuse na jirˈisi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1567.039,1574.12,όλα τα σχολεία μέχρι του χρόνου,ˈola ta sxolˈia mˈexri tu xrˈonu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1569.96,1577.039,έννα μπορούσε κάτι απλό Όσες μέρες ξυπνώ,ˈena borˈuse kˈati aplˈo ˈosez mˈeres ksipnˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1574.12,1580.039,καλά τζαί μπορώ να πάω έννα μπορούσα να,kalˈa dzˈe borˈo na pˈao ˈena borˈusa na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1577.039,1582.12,πηγαίνω Όσες μέρες εν μπορώ να πηγαίνω,pijˈeno ˈosez mˈeres ˈen borˈo na pijˈeno
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1580.039,1585.32,εγώ έννα μπορούσε να πηγαίνει κάποιος,eɣˈo ˈena borˈuse na pijˈeni kˈapiˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1582.12,1587.84,άλλος Τζαί όλων αυτόν να έσιει τζαί το,ˈalos dzˈe ˈolon aftˈon na ˈesji dzˈe to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1585.32,1592.0,νόημα γιατί η βαλίτσα ας πούμε αυτή,nˈoɪma jatˈi i valˈits ˈas pˈume aftˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1587.84,1593.559,κουβαλά αγάπη κουβαλά ελπίδα κουβαλά,kˌuvalˈa aɣˈapi kˌuvalˈa elpˈiða kˌuvalˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1592.0,1597.44,χαράν,xarˈan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1593.559,1599.36,ευγνωμοσύνη τζαί έρχεται τζαί σε επαφήν με,ˌevɣnomosˈini dzˈe ˈerçetˌe dzˈe se ˌepafˈin me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1597.44,1601.12,τα παιδιά,ta pˌeðiˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1599.36,1603.64,έννα μπορούσε να έρχεται σε επαφή με τα,ˈena borˈuse na ˈerçetˌe se ˌepafˈi me ta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1601.12,1606.0,παιδιά τζαί όλων αυτών έννα μπορούσε να,pˌeðiˈa dzˈe ˈolon aftˈon ˈena borˈuse na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1603.64,1609.48,ήταν μία όμορφη τζαί ωραία,ˌitan mˌia ˈomorfˌi dzˈe orˈea
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1606.0,1611.84,γιορτή Κάτι το οποίο είναι τόσον απλό,jortˈi kˈati to opˈio ˌine tˈoson aplˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1609.48,1615.399,τζαί να το κάμεις,dzˈe na to kˈamis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1611.84,1618.039,ε τζαί να δώσεις μηνύματα όμορφα τζαί να,ˈepsilˌon dzˈe na ðˈosiz minˈimatˌa ˈomorfˌa dzˈe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1615.399,1620.36,προχωρήσει παρακάτω Τζαί είναι κάτι το,prˌoxorˈisi pˌarakˈato dzˈe ˌine kˈati to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1618.039,1622.559,οποίο,opˈio
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1620.36,1626.039,εντάξει εν θεωρώ ότι είμαστε το μόνο,edˈaksi ˈen θˌeorˈo ˈoti ˌimastˌe to mˈono
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1622.559,1628.84,πρόβλημα να το πω έτσι ε όξα ότι πρέπει να,prˈovlimˌa na to pˈo ˈetsi ˈepsilˌon ˈoksa ˈoti prˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1626.039,1630.6,έχουμε ειδική μεταχείριση είναι κάτι,ˌexumˌe ˌiðicˈi mˌetaçˈirisˌi ˌine kˈati
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1628.84,1631.64,αντίστοιχο αλλά όταν έχεις έναν,adˈistixˌo alˌa ˈotan ˌeçis ˌenan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1630.6,1633.6,επιθετικόν,ˌepiθˌetikˈon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1631.64,1636.279,καρκίνο εν μπορώ να κάνω μόνο μια,karcˈino ˈen borˈo na kˈano mˈono mɲa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1633.6,1638.0,αιτήσυν τώρα τζαί να μην ξέρω πότε έννα,etˈisin dˈora dzˈe na mˈiŋ ɡzˈero pˈote ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1636.279,1641.039,ρθει η απάντηση τζαί αν μέχρι την,rθˈi i apˈadisˌi dzˈe an mˈexri tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1638.0,1643.0,απάντησην αλλάξει το στάτους μου Γιατί,apˈadisˌin alˈaksi to stˈatuz mu jatˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1641.039,1644.399,στη δική μου περίπτωση αυτό συμβαίνει,sti ðicˈi mu perˈiptosˌi aftˈo simvˈeni
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1643.0,1647.84,έστω τζαί αν είναι πράγματα τα οποία εν,ˈesto dzˈe an ˌine prˈaɣmatˌa ta opˈia ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1644.399,1650.679,τα ξέρει ο κόσμος ότι,ta ksˈeri o kˈosmos ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1647.84,1653.0,ξεκινώ να κάνω μίαν αίτηση ήμουνα,ksˌecinˈo na kˈano mˈian ˈetisˌi ˈimunˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1650.679,1655.679,ύπαντρη Μέχρι να εκταστεί αίτηση,ˈipadrˌi mˈexri na ˌektastˈi ˈetisˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1653.0,1658.679,παντρεύτηκα Ε ξεκινούσα να κάνω μία,padrˈeftikˌa ˈepsilˌon ksˌecinˈusa na kˈano mˌia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1655.679,1661.72,αίτηση Ε ήμουν απλά καρκινοπαθής ας,ˈetisˌi ˈepsilˌon ˌimun aplˈa kˌarcinˌopaθˈis ˈas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1658.679,1663.919,πούμε μέχρι να εξεταστεί η αίτηση Ε,pˈume mˈexri na ˌeksetastˈi i ˈetisˌi ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1661.72,1667.32,εν έβλεπα από τον Μά οπότε ήμουν,ˈen ˈevlep apˌo ton mˈa opˈote ˌimun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1663.919,1669.039,ανάπειρη Ε δηλαδή αυτόν αλλάζε στη,anˈapirˌi ˈepsilˌon ðˌilaðˈi aftˈon alˈaze sti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1667.32,1674.12,συνέχεια ακριβώς επειδή είναι επιθετικός,sinˈeç ˌakrivˈos ˌepiðˈi ˌine ˌepiθˌetikˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1669.039,1677.88,ο καρκίνος Οπότε κάθε φορά αν αλλάζαμε,o karcˈinos opˈote kˈaθe forˈa an alˈazamˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1674.12,1680.799,άλλαζα στάτους Ναι Ε τζαί αυτό εν,ˈalazˌa stˈatuz nˈe ˈepsilˌon dzˈe aftˈo ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1677.88,1682.559,βοήθησε με ποτέ Χωρίς να λαλώ ότι μία,voˈiθisˌe me potˈe xorˈiz na lalˈo ˈoti mˌia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1680.799,1686.159,κυβέρνηση όξα ένα κράτος μπορεί να,civˈernisˌi ˈoksa ˌena krˈatoz borˈi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1682.559,1688.32,προβλέψει τα πάντα για τα πάντα,provlˈepsi ta pˈada jˈa ta pˈada
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1686.159,1691.519,εν εννεν,ˈen ˈenen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1688.32,1693.32,ότι ε πώς να πω εν σσιάζουμαι την,ˈoti ˈepsilˌon pˈoz na pˈo ˈen ssjˈazumˌe tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1691.519,1696.039,πραγματικότητα,prˌaɣmatikˈotitˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1693.32,1699.24,περιμένω Ε,pˌerimˈeno ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1696.039,1702.0,άρα το κράτος χρειάζεται να αποκτήσει,ˈara to krˈatos xrçˈazetˌe n ˌapoktˈisi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1699.24,1704.48,καλύτερα να τα κλαστικά τζαί ιδιωτικό η,kalˈiterˌa na ta klˌastikˈa dzˈe ˌiðiˌotikˈo ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1702.0,1706.2,ιδιωτικότητα θαρκούμαι Δηλαδή εμένα η,ˌiðiˌotikˈotitˌa θarkˈume ðˌilaðˈi emˈena ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1704.48,1708.72,περίπτωση μου είναι μοναδική στον κόσμο,perˈiptosˌi mu ˌine mˌonaðicˈi stoŋ ɡˈosmo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1706.2,1712.399,Πώς να πεις τώρα ένα τριγό συμβουλίων,pˈoz na pˈis tˈora ˌena triɣˈo sˌimvulˈion
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1708.72,1714.36,ότι έτσι έννα πάει δηλαδή έννα ρθει η,ˈoti ˈetsi ˈena pˈai ðˌilaðˈi ˈena rθˈi ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1712.399,1716.159,κλασική δικαιολογία εν υπάρχει,klˌasicˈi ðˌiceˌolojˈia ˈen ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1714.36,1718.08,βιβλιογραφία Ε μα πώς να υπάρχει,vˌivʎoɣrafˈia ˈepsilˌon mˈa pˈoz na ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1716.159,1721.08,βιβλιογραφία αφού εν υπάρχει άλλο εν,vˌivʎoɣrafˈi afˈu ˈen ipˈarçi ˈalo ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1718.08,1725.0,υπάρχει άλλον περιστατικό,ipˈarçi ˈalom bˌeristˌatikˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1721.08,1727.48,Σε απόλυτο δίκαιο Ισχύει Ναι Ε άρα,se apˈolitˌo ðˈiceˌo isçˈii nˈe ˈepsilˌon ˈara
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1725.0,1729.24,πρέπει να αλλάξουν κάποιες στρευλώσεις,prˈepi n alˈaksuŋ ɡˈapiˌes strevlˈosis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1727.48,1732.039,που υπάρχουν να διορθωθούν διάφορα,pu ipˈarxun na ðˌiorθoθˈun ðiˈaforˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1729.24,1735.799,ζητήματα τζαί θαρκούμαι ότι μέσα από την,zitˈimatˌa dzˈe θarkˈume ˈoti mˌes apˌo tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1732.039,1736.96,φωνήν τη δική σου ε υπάρχει μπορεί να,fonˈin di ðicˈi su ˈepsilˌon ipˈarçi borˈi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1735.799,1743.12,υπάρχει,ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1736.96,1746.84,ελπίδα Εμ τώρα παντρεύτηκες Ναι,elpˈiða ˈem tˈora padrˈefticˌez nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1743.12,1748.919,Έχεις δίπλα σου τον Αντρέα τον οποίον,ˌeçiz ðˈipla su ton adrˈea ton opˈion
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1746.84,1752.039,γνώρισε λίγο πριν από τη διάγνωση Το χω,ɣnˈorisˌe lˈiɣo prˈin apˌo ti ðiˈaɣnosˌi to xˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1748.919,1757.84,ακούσει σε μια άλλη συνεντευτή σου,akˈusi se mɲ ˈali sˌinedeftˈi su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1752.039,1760.279,Λοιπόν ήντα σημαίνει ο Ανδρέας για σένα,lipˈon ˈida simˈeni o anðrˈeaz jˈa sˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1757.84,1763.279,Ο Αντρέας είναι πήγιος άγγελος,o adrˈeas ˌine pˈijos ˈaŋɡelˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1760.279,1763.279,θαρκούμαι,θarkˈume
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1763.559,1769.84,Ε τζαί εγώ τζαί ο Ανδρέας εγώ λίγο πιο,ˈepsilˌon dzˈe eɣˈo dzˈe o anðrˈeas eɣˈo lˈiɣo pçˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1766.48,1771.72,πολύ Ήμασταν από τα άτομα που λέγαν ότι,polˈi ˌimastˌan apˌo t ˈatomˌa pu lˈeɣan ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1769.84,1776.08,εν έννα παντρευτούμε ποτέ εν μας,ˈen ˈena pˌadreftˈume potˈe ˈen mas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1771.72,1778.039,ενδιαφέρει η οικογένεια Ε αυτό το στυλ,ˌenðiafˈeri i ˌikojˈeɲa ˈepsilˌon aftˈo to stˈil
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1776.08,1780.799,Τζαί από την ώρα που είχαμε καθίσει,dzˈe apˌo tin ˈora pu ˌixamˌe kaθˈisi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1778.039,1783.279,δίπλαδίπλα τζαί ξεκινούσαμε να να μιλάμε,ðˈiplaðˈipla dzˈe ksˌecinˈusamˌe na na milˈame
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1780.799,1786.279,ήτανε λες τζαί γνωριζόμαστε από,ˈitanˌe lˈes dzˈe ɣnˌorizˈomastˌe apˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1783.279,1786.279,πάντα,pˈada
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1787.399,1794.36,Ε νιώθουν ο πιο τυχερός άνθρωπος στον,ˈepsilˌon ɲˈoθun o pçˈo tˌiçerˈos ˈanθropˌos ston
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1790.279,1794.36,κόσμο σε αυτόν τον τομέα,kˈosmo se aftˈon don domˈea
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1795.399,1803.64,Γιατί ο Αντρέας ήρθε στη ζωή,jatˈi o adrˈeas ˈirθe sti zoˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1799.559,1806.519,μου σε μία από τις πιο δύσκολες στιγμές,mu se mˌi apˌo tis pçˈo ðˈiskolˌes stiɣmˈes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1803.64,1808.84,Πόσες μέρες πριν τη διάγνωση,pˈosez mˈeres prˈin di ðiˈaɣnosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1806.519,1810.76,μέρες Ήτανε μία μέρα μετά την,mˈeres ˈitanˌe mˌia mˈera metˈa tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1808.84,1812.559,εγχείρηση Μετά την εγχείρηση μου που,eŋçˈirisˌi metˈa tin eŋçˈirisˌi mu pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1810.76,1814.96,είχα βγάλει το λεφαδένα Την επόμενη,ˌixa vɣˈali to lˌefaðˈena tin epˈomenˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1812.559,1816.44,μέρα που βγήκα απ το νοσοκομείο ε είχα,mˈera pu vjˈik ˈap to nˌosokomˈio ˈepsilˌon ˌixa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1814.96,1818.88,πάει σε οικογενειακό τάβλα να φάω,pˈai se ˌikojˌeɲakˈo tˈavla na fˈao
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1816.44,1821.2,γιατί ε εν μπορούσα ούτε να μαγειρέψω,jatˈi ˈepsilˌon ˈen borˈusa ˈute na mˌajirˈepso
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1818.88,1823.32,ούτε να κάνω τίποτα Τζαί πήγα σε ένα,ˈute na kˈano tˈipotˌa dzˈe pˈiɣa se ˌena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1821.2,1824.679,σπίτι που ήτανε πηγαίναμε τα πόδια Αλλά,spˈiti pu ˈitanˌe pijˈenamˌe ta pˈoðj alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1823.32,1826.2,εν το ήσουν καθόλου Το φλερτ είναι,ˈen do ˌisuŋ ɡaθˈolu to flˈert ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1824.679,1828.75,φλερτ,flˈert
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1826.2,1830.6,Ε ήρθε μου λίον έτσι,ˈepsilˌon ˈirθe mu lˈion ˈetsi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1830.6,1838.279,κάπως Ναι Ε ξέρεις μας αρέσουν ε,kˈapoz nˈe ˈepsilˌon ksˈeriz mas arˈesun ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1835.48,1841.6,αντίστοιχα πράγματα αλλά όι τα,adˈistixˌa prˈaɣmatˌa alˌa ˈoɪ ta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1838.279,1843.6,συνηθισμένα Ε ας πούμε ελεύθερη πτώση,sˌiniθismˈena ˈepsilˌon ˈas pˈume elˈefθerˌi ptˈosi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1841.6,1846.36,μιαα εξύπτωδρο ας πούμε έννα μπορούσε Δε,miˈaa eksˈiptoðrˌo ˈas pˈume ˈena borˈuse ðˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1843.6,1848.88,εν κάμα ακόμα εν ξέρω αν έννα με αφύγουν,ˈeŋ ɡˈam akˈoma ˈeŋ ɡzˈero an ˈena me afˈiɣun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1846.36,1852.29,για να μ αφήγετε ένα κάμω,janˌa mˈi afˈijetˌe ˌena kˈamo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1848.88,1853.72,Κάμε έτηση στο ιατρό συμβούλιο Πρακτικά,kˈame ˈetisˌi sto ˌiatrˈo simvˈuʎo prˌaktikˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1853.72,1860.24,ε ας πούμε ο Αντρέας ήταν σε εργοληπτική,ˈepsilˌon ˈas pˈume o adrˈeas ˌitan se ˌerɣolˌipticˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1857.84,1862.559,εμε που ασχολείται με,ˈeme pu ˌasxolˈite me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1860.24,1864.559,διατηρητέα τζαί εκείνο το διάστημα εγώ,ðˌiatˌiritˈea dzˈe ecˈino to ðiˈastimˌa eɣˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1862.559,1867.12,έψαχνα σπίτι διατηρηταίων να αγοράσω,ˈepsaxnˌa spˈiti ðˌiatˌiritˈeon n ˌaɣorˈaso
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1864.559,1868.919,γιατί μ αρέσουν πάρα πολλά Οπότε όταν,jatˈi mˈi arˈesum bˈara polˈa opˈote ˈotan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1867.12,1870.84,μιλούσαμε τζαί μου έλεγαν είμαι σε,milˈusamˌe dzˈe mu ˈeleɣˌan ˌime se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1868.919,1873.36,εργοληπτική είμαι διατηρητές τέτοια εγώ,ˌerɣolˌipticˈi ˌime ðˌiatˌiritˈes tˈetiˌa eɣˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1870.84,1876.0,ήμουνα σε φάση ουάου τέλειο Κάτι,ˈimunˌa se fˈasi uˈau tˈeʎo kˈati
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1873.36,1878.12,τέτοια Μετά λαλώ Μαρία πρέπει να,tˈetiˌa metˈa lalˈo marˈia prˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1876.0,1880.72,σταματήσεις να ενθουσιάζεσαι τόσον πολλά,stˌamatˈisiz na ˌenθusjˈazesˌe tˈosom bolˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1878.12,1884.159,με τούτα τα περίεργα ε γιατί ο άνθρωπος,me tˈuta ta perˈierɣˌa ˈepsilˌon jatˈi o ˈanθropˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1880.72,1885.96,είναι νομίζει ότι σε απελεί Ε εντάξει,ˌine nomˈizi ˈoti se ˌapelˈi ˈepsilˌon edˈaksi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1884.159,1889.96,μετά βγήκαμε ραντεβούς Μετά ήταν λες,metˈa vjˈikamˌe rˌadevˈuz metˈa ˌitan lˈes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1885.96,1891.679,ήμασταν από πάντα μαζί Ε οπότε ναι,ˌimastˌan apˌo pˈada mazˌi ˈepsilˌon opˈote nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1889.96,1895.039,Έρχεται διάγνωση Ο Αντρέας πτέτι με,ˈerçetˌe ðiˈaɣnosˌi o adrˈeas ptˈeti me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1891.679,1897.48,τίποτε Όι Είναι δίπλα σου,tˈipotˌe ˈoɪ ˌine ðˈipla su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1895.039,1899.919,Παντρευτήκατε,pˌadreftˈikatˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1897.48,1901.399,Ε στους δύο μήνες εκκλείσαμε ημερομηνία,ˈepsilˌon stuz ðˈio mˈines eklˈisamˌe ˌimerˌominˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1899.919,1903.159,Στους δύο μήνες εκλείσατε ημερομηνία,stuz ðˈio mˈines eklˈisatˌe ˌimerˌominˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1901.399,1905.799,Γιατί στην Κύπρο αντέγκλησες ημερομηνία,jatˈi stiŋ ɡˈipro adˈeŋɡlisˌes ˌimerˌominˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1903.159,1907.32,που χρόνο πριν εν βρίσκεις Όντως,pu xrˈono prˈin ˈen vrˈiscis ˈodos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1905.799,1908.559,Ναι Τζαί στους δύο μήνες Ντάξει εν,nˈe dzˈe stuz ðˈio mˈinez dˈaksi ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1907.32,1911.519,έχεις ρωτά εδώ εμένα γιατί είναι κάτι,ˌeçiz rotˈa eðˈo emˈena jatˈi ˌine kˈati
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1908.559,1915.519,που με ενδιαφέρει προσωπικά Οπότε σου,pu me ˌenðiafˈeri prˌosopikˈa opˈote su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1911.519,1917.08,τύχη Ναι Ναι Λοιπόν Εμ,tˈiçi nˈe nˈe lipˈon ˈem
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1915.519,1921.6,Αλλά,alˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1917.08,1924.399,εφύλαξες ο Άρια Ναι Ναι Εντάξει,efˈilaksˌes o ˈariˌa nˈe nˈe edˈaksi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1921.6,1926.84,Υπάρχουν αντικειμενικές δυσκολίες Ναι,ipˈarxun ˌadicˌimenicˈez ðˌiskolˈiez nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1924.399,1931.039,Αυτόν φυλάξες δυσκολίες Γι αυτόν έχεις,aftˈon filˈaksez ðˌiskolˈiez jˈi aftˈon ˌeçis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1926.84,1933.88,φυλάξει άλλωστε τζαί τα ε οάρια,filˈaksi ˈalostˌe dzˈe ta ˈepsilˌon oˈariˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1931.039,1937.159,Εμ,ˈem
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1933.88,1942.08,Άρα εξήγησε μας λίγο την ψυχολογία πίσω,ˈara eksˈijisˌe maz lˈiɣo tim bzˌixolojˈia pˈiso
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1937.159,1944.08,από αυτό μιας ε γυναίκας μιας νέας,apˌo aftˈo mˌias ˈepsilˌon jinˈekaz mˌiaz nˈeas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1942.08,1946.0,γυναίκας που εν έθελε να απαντέρει,jinˈekas pu ˈen ˈeθelˌe n ˌapadˈeri
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1944.08,1947.519,τίποτε αλλά γνωρίζει τον άνθρωπον της,tˈipotˌe alˌa ɣnorˈizi ton ˈanθropˌon dis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1946.0,1949.24,Ούτε να κάνει μωρά Να ξέ ούτε να κάνει,ˈute na kˈani morˈa na ksˈe ˈute na kˈani
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1947.519,1953.639,μωρά Τώρα το,morˈa tˈora to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1949.24,1956.679,μαθαίνω Αλλά ξαφνικά εν το είδε με,maθˈeno alˌa ksˌafnikˈa ˈen do ˈiðe me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1953.639,1959.039,τίποτε Το βάζει στο πλάνο Ναι,tˈipotˌe to vˈazi sto plˈano nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1956.679,1961.44,Εντάξει,edˈaksi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1959.039,1963.2,Τζαί ήντα σημαίνει αυτό πρακτικά στο πλάνο,dzˈe ˈida simˈeni aftˈo prˌaktikˈa sto plˈano
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1961.44,1964.6,έννα οτεβάζα ούτως όξα άλλωσπως γιατί πάντα,ˈena ˌotevˈaza ˈutos ˈoks ˈalospˌoz jatˈi pˈada
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1963.2,1967.96,ήμουν,ˌimun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1964.6,1972.399,του του ότι πρέπει να προσέχεις,tu tu ˈoti prˈepi na prosˈeçis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1967.96,1974.559,για να έχεις Οπότε για φύλαξη θαρκούμαι έννα,janˌa ˌeçis opˈote jˈa fˈilaksˌi θarkˈume ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1972.399,1977.159,πήγαινε να ούτως όξα άλλως ύτως όξα άλλως,pˈijenˌe na ˈutos ˈoks ˈalos ˈitos ˈoks ˈalos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1974.559,1980.0,Ναι Ε εννοούμενο ότι κάποιος μου το,nˈe ˈepsilˌon ˌenoˈumenˌo ˈoti kˈapiˌoz mu to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1977.159,1982.84,εσύνε γιατί είναι σημαντικό ότι Ναι ότι,esˈine jatˈi ˌine sˌimadikˈo ˈoti nˈe ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1980.0,1984.279,μου ότι μου τα είχαν πει Έτσι Ε από,mu ˈoti mu ta ˌixam bˈi ˈetsi ˈepsilˌon apˌo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1982.84,1989.84,κει τζαί,cˈi dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1984.279,1991.72,πέρα το να μείνω έγκυος ε έννα είναι πολύ,pˈera to na mˈino ˈeŋɡiˌos ˈepsilˌon ˈena ˌine polˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1989.84,1993.24,πιο μεγάλο ρίσκο για μένα Εκτός το ότι,pçˈo meɣˈalo rˈisko jˈa mˈena ektˈos to ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1991.72,1995.44,αυτή τη στιγμή ούτως όξα αγιός είμαι σε,aftˈi ti stiɣmˈi ˈutos ˈoks ajˈos ˌime se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1993.24,1997.559,χημιοθεραπείες Ακριβώς έννα είναι ρίσκο,çˌimiˌoθerapˈies ˌakrivˈos ˈena ˌine rˈisko
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1995.44,2000.88,για μένα γιατί έννα πρέπει για ν μήνες να,jˈa mˈena jatˈi ˈena prˈepi jˈa nˈi mˈinez na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,1997.559,2004.919,μείνω εκτός απεικονιστικών εξετάσεων,mˈino ektˈos ˌapikˌonistikˈon ˌeksetˈaseˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2000.88,2006.84,τέτοια που ε πάρα πολύ μεγάλο ρίσκο,tˈetiˌa pu ˈepsilˌon pˈara polˈi meɣˈalo rˈisko
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2004.919,2008.919,Οπότε το πιο πιθανό είναι ότι όι το πιο,opˈote to pçˈo pˌiθanˈo ˌine ˈoti ˈoɪ to pçˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2006.84,2012.08,πιθανό η μόνη πιθανότητα είναι να πάμε,pˌiθanˈo i mˈoni pˌiθanˈotitˌa ˌine na pˈame
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2008.919,2013.32,με παρεκθεσία παρεθέτη μητέρα Από την,me pˌarekθesˈia pˌareθˈeti mitˈer apˌo tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2012.08,2015.919,άλλη στην,ˈali stin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2013.32,2019.399,Κύπρο τα λαλώ τζαί γελό γιατί πραγματικά,cˈipro ta lalˈo dzˈe jelˈo jatˈi prˌaɣmatikˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2015.919,2020.039,είναι αστεία Ε στην Κύπρο είναι νόμιμη,ˌine astˈia ˈepsilˌon stiŋ ɡˈipro ˌine nˈomimˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2019.399,2022.44,η,ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2020.039,2024.919,παρεθεσία ε αλλά απαγορεύεται η,pˌareθesˈia ˈepsilˌon al ˌapaɣorˈevetˌe ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2022.44,2026.08,διαφήμιση Οπότε απορώ πώς μπορεί,ðˌiafˈimisˌi opˈote ˌaporˈo pˈoz borˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2024.919,2030.72,κάποιος να,kˈapiˌoz na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2026.08,2032.799,έβρει ε γυναίκα να οικοφορήσει για τον,ˈevri ˈepsilˌon jinˈeka na ˌikoforˈisi jˈa ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2030.72,2035.08,εαυτόν για κάποιον άλλον Δηλαδή να,ˌeaftˈon jˈa kˈapiˌon ˈalon ðˌilaðˈi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2032.799,2037.0,γίνει παρέθετη μητέρα αφού εν μπορείς,jˈini parˈeθetˌi mitˈer afˈu ˈen borˈis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2035.08,2039.12,να πεις θέλω παρέθεια τη μητέρα Να,na pˈis θˈelo parˈeθça ti mitˈera na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2037.0,2042.679,ρωτήσω κάτι επιτρέπονται οι μαγικές,rotˈiso kˈati ˌepitrˈepodˌe i mˌajicˈes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2039.12,2042.679,σφαίρες σε αυτήν την,sfˈeres se aftˈin din
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2042.76,2046.44,περίπτωση Εγώ σκέφτομαι ότι μπορεί να,perˈiptosˌi eɣˈo scˈeftomˌe ˈoti borˈi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2044.88,2048.0,παίζει κανένας άγγελος από τον ουρανό,pˈezi kanˈenas ˈaŋɡelˌos apˌo ton ˌuranˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2046.44,2052.44,Δηλαδή διαφορετικά εν,ðˌilaðˈi ðˌiafˌoretikˈa ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2048.0,2056.159,γίνεται Ναι Ε εντάξει Είναι ένα θέμα,jˈinetˌe nˈe ˈepsilˌon edˈaksi ˌine ˌena θˈema
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2052.44,2060.04,που σμηλεύεται να το πω που σιγάσιγά,pu smilˈevetˌe na to pˈo pu siɣˈasiɣˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2056.159,2063.48,γίνονται καλύτερα τα δεδομένα γενικότερα,jˈinodˌe kalˈiterˌa ta ðˌeðomˈena jˌenikˈoterˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2060.04,2066.32,με τις εξοσωματικές με τις παρεθεσίες,me tis ˌeksosˌomaticˈez me tis pˌareθesˈies
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2063.48,2069.919,με όλα αυτά Τζαί μην νομίζεις ότι έχουμε,me ˈol aftˈa dzˈe mˈin nomˈizis ˈoti ˌexumˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2066.32,2073.04,μεγάλων αριθμό παρεθέσιών στην Κύπρο Ε,meɣˈalon ˌariθmˈo pˌareθˈesjˈon stiŋ ɡˈipro ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2069.919,2076.119,είναι περίπου με άτομα το χρόνο το,ˌine perˈipu me ˈatomˌa to xrˈono to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2073.04,2077.76,πολύ Ε δηλαδή μιλούμε έναν άτομο τον,polˈi ˈepsilˌon ðˌilaðˈi milˈume ˌenan ˈatomˌo ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2076.119,2081.44,μήνα ας,mˈin ˈas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2077.76,2084.0,πούμε που εντάξει είναι λίγο είναι λίγο,pˈume pu edˈaksi ˌine lˈiɣo ˌine lˈiɣo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2081.44,2087.56,περίεργο Ε ελπίζω ότι έννα μας αξιώσει ο,perˈierɣˌo ˈepsilˌon elpˈizo ˈoti ˈena mas ˌaksiˈosi ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2084.0,2092.24,Θεός κάποτε τζαί έννα μπούμε σε αυτή τη,θeˈos kˈapotˌe dzˈe ˈena bˈume se aftˈi ti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2087.56,2094.8,διαδικασία Ε από κει τζαί πέρα,ðˌiaðˌikasˈia ˈepsilˌon apˌo cˈi dzˈe pˈera
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2092.24,2094.8,θαρκούμαι,θarkˈume
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2095.399,2101.04,ότι τα πράγματα έρχονται όπως πρέπει Να,ˈoti ta prˈaɣmatˌa ˈerxodˌe ˈopos prˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2098.88,2102.76,το πω κάπως έτσι όπως πρέπει όταν,to pˈo kˈapos ˈetsi ˈopos prˈepi ˈotan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2101.04,2105.599,πρέπει την ώρα που πρέπει τζαί,prˈepi tin ˈora pu prˈepi dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2102.76,2107.48,προχωράμε Τζαί προχωράμε Ναι Σε,prˌoxorˈame dzˈe prˌoxorˈame nˈe se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2105.599,2111.16,παρακολουθείς την επικαιρότητα Είναι,pˌarakˌoluθˈis tin ˌepicerˈotitˌa ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2107.48,2113.119,κάποια ζητήματα που θεωρείς ότι σε εν,kˈapiˌa zitˈimatˌa pu θˌeorˈis ˈoti se ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2111.16,2116.28,ξέρω ασχολεί σε παραγωγής ήντα έχεις,ksˈero ˌasxolˈi se pˌaraɣojˈis ˈida ˌeçis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2113.119,2118.04,αποκλείσει την σογραφία Εγώ προσπαθώ να,ˌapoklˈisi tin sˌoɣrafˈia eɣˈo prˌospaθˈo na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2116.28,2121.76,το αποφεύγω αν εί δύσκολο μετά τη,to ˌapofˈevɣo an ˈi ðˈiskolˌo metˈa ti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2118.04,2123.599,δουλειά μου αλλά ντάξει όι,ðuʎˈa mu alˌa dˈaksi ˈoɪ
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2121.76,2126.8,βλέπουμε επικαιερότητα ναι τζαί με τον,vlˈepumˌe ˌepicˌeerˈotitˌa nˈe dzˈe me ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2123.599,2129.72,Αντρέα βλέπουμε πάρα πολύ βλέπετε ρίκου,adrˈea vlˈepumˌe pˈara polˈi vlˈepetˌe rˈiku
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2126.8,2132.359,ε βλέπουμε μαζί με τις γιαγιάδες μας,ˈepsilˌon vlˈepumˌe mazˌi me tiz jajˈaðez mas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2129.72,2134.52,διότι είμαστε είναι γνωστό στάνια ανικά,ðiˈoti ˌimastˌe ˌine ɣnostˈo stˈaɲ ˌanikˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2132.359,2137.68,κοινά εν έχουμε επιτυχία Όι βλέπουμε,cinˈa ˈen ˌexumˌe ˌepitiçˈia ˈoɪ vlˈepumˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2134.52,2140.44,όμως Είναι αμένοι τηλεόραση στο ρίξω να,ˈomos ˌine amˈeni tˌileˈorasˌi sto rˈikso na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2137.68,2143.28,περάσουμε να κάτσουμε να δούμε Ε ναι,perˈasumˌe na kˈatsumˌe na ðˈume ˈepsilˌon nˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2140.44,2146.88,βλέπουμε βλέπουμε επικαιρότητα Ωραία,vlˈepumˌe vlˈepumˌe ˌepicerˈotitˌa orˈea
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2143.28,2149.319,Ευθρώσει για την εκπομπή μας προφανώς ε,efθrˈosi jˈa tin ˌekpobˈi mas prˌofanˈos ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2146.88,2151.839,είναι μέσα σε αυτές οι επιλογές σας στην,ˌine mˌesa se aftˈes i ˌepilojˈes sas stin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2149.319,2155.96,επανάληψη Ε τώρα υπάρχουν διάφορα,ˌepanˈalipsˌi ˈepsilˌon tˈora ipˈarxun ðiˈaforˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2151.839,2160.0,ζητήματα που ε,zitˈimatˌa pu ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2155.96,2161.52,απασχολούν τζαί την κοινοβευτική ε ε,ˌapasxolˈun dzˈe tiŋ cˌinovˌefticˈi ˈepsilˌon ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2160.0,2164.56,επιτροπήν,ˌepitropˈin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2161.52,2166.52,υγείας Έτσι που αφορούν δηλαδή διάφορες,ijˈias ˈetsi pu ˌaforˈun ðˌilaðˈi ðiˈaforˌes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2164.56,2170.079,καινοτόμες,cˌenotˈomes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2166.52,2171.2,θεραπείες Ε βελτίωση των στρευλώσεως,θˌerapˈies ˈepsilˌon veltˈiosˌi ton strevlˈoseˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2170.079,2174.88,το σύστημα,to sˈistimˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2171.2,2178.359,υγείας ε ποιοτικές υπηρεσίες ιατρικής,ijˈias ˈepsilˌon pˌioticˈes ˌipiresˈies ˌiatricˈis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2174.88,2181.56,φροντίδας Μ έτσι εν έννα σου ζητήσω να,frodˈiðaz mˈi ˈetsi ˈen ˈena su zitˈiso na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2178.359,2184.24,κρίνεις το σύστημα αλλά είμαι βέβαιος,krˈinis to sˈistimˌa alˌa ˌime vˈeveˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2181.56,2187.359,πως μέσα από την εμπειρία σου τζαί μέσα,pˈoz mˌes apˌo tin ˌebirˈia su dzˈe mˌesa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2184.24,2191.079,από τις ε μέσα από τη βιωματική σου,apˌo tis ˈepsilˌon mˌes apˌo ti vˌiomˌaticˈi su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2187.359,2194.24,εμπειρία μπορείς να έχεις άποψη τζαί,ˌebirˈia borˈiz na ˌeçis ˈapopsˌi dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2191.079,2195.16,εικόνα που ενδεχόμενα αυτή η άποψη,ikˈona pu ˌenðexˈomen aftˈi i ˈapopsˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2194.24,2197.52,μπορεί να,borˈi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2195.16,2199.96,βελτιώνει την σημερινή εκδοχή του,vˌeltiˈoni tin sˌimerinˈi ˌekðoçˈi tu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2197.52,2202.44,συστήματος υγείας Αν έννα σε αν έννα σε,sistˈimatˌos ijˈias an ˈena se an ˈena se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2199.96,2206.28,ρωτούσα ποιες είναι αυτές οι εισηγήσεις,rotˈusa pˈies ˌine aftˈes i ˌisijˈisis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2202.44,2206.28,που έννα φέρουν βελτίωση ποιες έννα ήταν,pu ˈena fˈerun veltˈiosˌi pˈies ˈena ˌitan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2206.48,2212.56,αυτές θαρκούμαι αρχίζοντας που την αρκημός,aftˈes θarkˈume arçˈizodˌas pu tin ˌarcimˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2210.4,2214.92,θαρκούμαι ότι εν,θarkˈume ˈoti ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2212.56,2217.4,υπάρχει ο,ipˈarçi ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2214.92,2218.76,τρόπος να είσαι σωστός τις επιλογές σου,trˈopoz na ˌise sostˈos tis ˌepilojˈes su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2217.4,2220.4,μέχρι να φτάσεις στη,mˈexri na ftˈasis sti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2218.76,2222.64,διάγνωση,ðiˈaɣnosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2220.4,2225.4,Δηλαδή έχουμε τον προσωπικό μας,ðˌilaðˈi ˌexumˌe tom brˌosopikˈo mas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2222.64,2227.68,γιατρών πλέον Ε σε μένα ο προσωπικός,jatrˈom blˈeon ˈepsilˌon se mˈena o prˌosopikˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2225.4,2231.96,μου γιατρός ήταν άψογος,mu jatrˈos ˌitan ˈapsoɣˌos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2227.68,2233.48,Ε από την αρκημός όμως δυστυχώς αυτό εν,ˈepsilˌon apˌo tin ˌarcimˈos ˈomoz ðˌistixˈos aftˈo ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2231.96,2235.96,συμβαίνει με όλους τους προσωπικούς,simvˈeni me ˈolus tus prˌosopikˈus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2233.48,2237.28,γιατρούς τζαί αν εν κάνω λάθος εν,jatrˈus dzˈe an ˈeŋ ɡˈano lˈaθos ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2235.96,2239.68,υπάρχει τζαί σύστημα,ipˈarçi dzˈe sˈistimˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2237.28,2241.64,αναξιολόγησης Αν θαρκούμαι ότι εν υπάρχει,ˌanaksˌiolˈojisˌis an θarkˈume ˈoti ˈen ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2239.68,2243.24,σύστημα αναξιολόγησης για τους,sˈistim ˌanaksˌiolˈojisˌiz jˈa tus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2241.64,2245.359,προσωπικούς γιατρους για κανένας για,prˌosopikˈuz jˈatruz jˈa kanˈenaz jˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2243.24,2249.04,κανένα γιατρό εν υπάρχει δυστυχώς,kanˈena jatrˈo ˈen ipˈarçi ðˌistixˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2245.359,2252.119,σύστημα αξιολόγησης Ναι εν,sˈistim ˌaksiolˈojisˌiz nˈe ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2249.04,2254.96,λαλώ για το πόσον καλά όξα κακά καμεί τη,lalˈo jˈa to pˈosoŋ ɡalˈa ˈoksa kakˈa kamˈi ti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2252.119,2257.359,δουλειά του ένας χειρούργος ας πούμε,ðuʎˈa tu ˌenas çirˈurɣos ˈas pˈume
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2254.96,2259.48,αλλά για το εάν σου είπε πήγαινε να,alˌa jˈa to eˌan su ˈipe pˈijenˌe na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2257.359,2261.24,κάνεις εξετάσεις τζαί πήγαινε να κάνεις,kˈanis ˌeksetˈasis dzˈe pˈijenˌe na kˈanis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2259.48,2267.52,για να δούμε ήντα,janˌa ðˈume ˈida
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2261.24,2271.119,είναι Αυτό θαρκούμαι είναι κάτι απλό Ε,ˌine aftˈo θarkˈume ˌine kˈati aplˈo ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2267.52,2274.2,οπότε εγώ ευτυχώς είχα αυτήν την,opˈote eɣˈo ˌeftixˈos ˌix aftˈin din
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2271.119,2275.88,καθοδήγησήν Οπότε μέσα κάθε δύο μέρες,kˌaθoðˈijisˈin opˈote mˌesa kˈaθe ðˈio mˈeres
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2274.2,2277.0,πήγαινα σε άλλο γιατρό για να βρούμε ήντα,pˈijenˌa se ˈalo jatrˈo janˌa vrˈume ˈida
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2275.88,2278.72,ήταν,ˌitan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2277.0,2282.24,Ε αυτό είναι κάτι που εν συμβαίνει,ˈepsilˌon aftˈo ˌine kˈati pu ˈen simvˈeni
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2278.72,2288.64,Οπότε εν ξέρω αν έννα μπορούσε να υπάρχει,opˈote ˈeŋ ɡzˈero an ˈena borˈuse na ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2282.24,2290.319,έναν ε κεντρικό ένας κεντρικός φορέας ε,ˌenan ˈepsilˌon cˌedrikˈo ˌenas cˌedrikˈos forˈeas ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2288.64,2292.76,που σε περίπτωση που νιώθεις ότι κάτι,pu se perˈiptosˌi pu ɲˈoθis ˈoti kˈati
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2290.319,2294.04,εν πάει καλά στο σώμα σου τζαί κατ,ˈem bˈai kalˈa sto sˈoma su dzˈe kˈat
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2292.76,2296.839,επεκταση με τον γιατρών όξα με τον,ˌepektˈasi me ton jatrˈon ˈoksa me ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2294.04,2299.56,οποιονδήποτε γιατρόν να μπορείς να,ˌopionðˈipotˌe jatrˈon na borˈiz na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2296.839,2301.96,απευθύνεσαι τζιαμέ ε ώστε να σε καθοδηγούν,ˌapefθˈinesˌe dzˌiamˈe ˈepsilˌon ˈoste na se kˌaθoðiɣˈun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2299.56,2303.24,κατευθείαν Μάλιστα Ε αυτόν ας πούμε,kˌatefθˈian mˈalistˌa ˈepsilˌon aftˈon ˈas pˈume
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2301.96,2308.119,για μένα είναι κάτι,jˈa mˈena ˌine kˈati
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2303.24,2311.44,πολύ απλό που όμως μπορεί να να βοηθήσει,polˈi aplˈo pu ˈomoz borˈi na na voɪθˈisi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2308.119,2316.24,πάρα πολύ Από κει τζαί πέρα θεωρώ ότι,pˈara polˈi apˌo cˈi dzˈe pˈera θˌeorˈo ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2311.44,2318.04,καρκίνοβαθείς σε μεγάλο βαθμό ε μπορούν,karcˈinovaθˈis se meɣˈalo vaθmˈo ˈepsilˌon borˈun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2316.24,2320.6,να έχουν πολλές,na ˌexum bolˈes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2318.04,2321.72,φροντίδες ε τζαί,frodˈiðes ˈepsilˌon dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2321.72,2328.24,πολλά,polˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2323.24,2331.599,ε Ε ωφελήματα Ναι Ωφελήματα,ˈepsilˌon ˈepsilˌon ˌofelˈimatˌa nˈe ˌofelˈimatˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2328.24,2334.2,Σε σχέση τζαί με άλλες χρόνιες παθήσεις,se sçˈesi dzˈe me ˈales xrˈoɲes paθˈisis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2331.599,2336.68,Ε υπάρχουν οι δύο συλλόγοι που είναι,ˈepsilˌon ipˈarxun i ðˈio silˈoji pu ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2334.2,2338.48,πάρα πολύ μεγάλοι Ο αντικαρκινικός ο,pˈara polˈi meɣˈali o ˌadikˌarcinikˈos ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2336.68,2341.52,Πασικά,pˌasikˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2338.48,2343.52,υπάρχουν συλλόγοι για παιδάκια οι,ipˈarxun silˈoji jˈa peðˈaca i
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2341.52,2345.92,μικροί,mikrˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2343.52,2347.76,ήρωες πολλοί άλλοι Αλλά πρέπει να,ˈiroˌes polˈi ˈali alˌa prˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2345.92,2350.52,υπάρχει τζαί ένας κεντρικός φορέας,ipˈarçi dzˈe ˌenas cˌedrikˈos forˈeas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2347.76,2352.52,Αντιλαμβανόμαι Ναι Τζαί πρέπει υπάρχει,ˌadilˌamvanˈome nˈe dzˈe prˈepi ipˈarçi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2350.52,2355.48,τζαί ο φορέας πριν τη διάγνωση Δηλαδή η,dzˈe o forˈeas prˈin di ðiˈaɣnosˌi ðˌilaðˈi ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2352.52,2357.119,δική μου διάγνωση εν έννα ερχόταν αν εν,ðicˈi mu ðiˈaɣnosˌi ˈen ˈena erxˈotan an ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2355.48,2359.44,αν εν ήμουν εγώ τζαί να μη λαόνουμαι,an ˈen ˌimun eɣˈo dzˈe na mˈi laˈonumˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2357.119,2362.64,Δηλαδή να μη με νοιάζει,ðˌilaðˈi na mˈi me ɲˈazi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2359.44,2364.76,Ε το λέμε ότι επεστρέφα σπίτι με,ˈepsilˌon to lˈeme ˈoti ˌepestrˈefa spˈiti me
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2362.64,2366.48,τα με τα τζαί λέ τους α δείτε,ta me ta dzˈe lˈe tus ˈalfa ðˈite
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2364.76,2368.319,τους όγκους μου εν τους είδαμε τζαί ο,tus ˈoŋɡuz mu ˈen dus ˈiðamˌe dzˈe ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2366.48,2370.64,λαούσα μου οι δοί οι γιατροί εν τους,laˈusa mu i ðˈi i jatrˈi ˈen dus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2368.319,2372.88,ονομαζαν όγκους μου λέει αγγίστες τζαί,ˌonomˈazan ˈoŋɡuz mu lˈei aŋɡˈistes dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2370.64,2375.8,λέει τους εν έννα περιπεζόμαστε μεταξύ,lˈei tus ˈen ˈena pˌeripezˈomastˌe mˌetaksˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2372.88,2377.119,μας είναι οι όγκοι δηλαδή μπορεί να,mas ˌine i ˈoŋɡi ðˌilaðˈi borˈi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2375.8,2378.68,είναι καλοήθης μπορεί να είναι κακοήθες,ˌine kˌaloˈiθiz borˈi na ˌine kˌakoˈiθes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2377.119,2381.64,μπορεί να είναι οτιδήποτε εν έχεις εν,borˈi na ˌine ˌotiðˈipotˌe ˈen ˌeçis ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2378.68,2384.96,έχεις ταμπο μιλάς ελεύθερα ναι τζαί,ˌeçis tˈabo milˈas elˈefθerˌa nˈe dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2381.64,2386.599,θαρκούμαι ότι ε έννα ζητήσω εν θαρκούμαι θέλω,θarkˈume ˈoti ˈepsilˌon ˈena zitˈiso ˈen θarkˈume θˈelo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2384.96,2388.839,να ζητήσω την άποψή σου τζαί για την,na zitˈiso tin ˈapopsˈi su dzˈe jˈa tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2386.599,2391.079,ανακουφιστική,ˌanakˌufisticˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2388.839,2393.92,που εν φτάσαμε στα επίπεδα αλλά τζαί,pu ˈen ftˈasamˌe sta epˈipeðˌa alˌa dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2391.079,2396.76,για το νομοσχέδιο που έννα συζηθεί για την,jˈa to nˌomosçˈeðiˌo pu ˈena sˌiziθˈi jˈa tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2393.92,2398.359,ευθνασία Ε,ˌefθnasˈia ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2396.76,2400.64,θαρκούμαι ότι όλοι πρέπει να έχουν τζαί εγώ,θarkˈume ˈoti ˈoli prˈepi na ˌexun dzˈe eɣˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2398.359,2402.56,ως χρόνος ασθενείς Εγώ θαρκούμαι μόνο οι,ˈos xrˈonos ˌasθenˈis eɣˈo θarkˈume mˈono i
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2400.64,2406.04,ασθενείς πρέπει να έχουν άποψη τη Θασία,ˌasθenˈis prˈepi na ˌexun ˈapopsˌi ti θasˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2402.56,2409.56,Έχω έχω Έχω άποψη Οπότε θεωρώ έννα ήταν,ˌexo ˌexo ˌexo ˈapopsˌi opˈote θˌeorˈo ˈena ˌitan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2406.04,2412.4,αδόμα να μη ζητήσω τζαί την άποψή σου,aðˈoma na mˈi zitˈiso dzˈe tin ˈapopsˈi su
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2409.56,2416.24,Ε θαρκούμαι ότι η ευθανασία είναι ένα θέμα,ˈepsilˌon θarkˈume ˈoti i ˌefθanasˈia ˌine ˌena θˈema
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2412.4,2418.96,το οποίον απασχολεί τζαί εστώ τζαί,to opˈion ˌapasxolˈi dzˈe estˈo dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2416.24,2420.4,στιγμιαία τον οποιονδήποτε ασθενή τζαί,stˌiɣmiˈea ton ˌopionðˈipotˌe ˌasθenˈi dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2418.96,2423.72,κυρίως όταν βρίσκεται σε μια πολύ,cirˈios ˈotan vrˈiscetˌe se mɲa polˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2420.4,2425.88,δύσκολη θέση,ðˈiskolˌi θˈesi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2423.72,2428.68,Οπότε θεωρώ ότι κάποιος που όπως λέμε,opˈote θˌeorˈo ˈoti kˈapiˌos pu ˈopoz lˈeme
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2425.88,2431.28,στην Κύπρον που είναι έξω από το χωρό ε,stiŋ ɡˈiprom bu ˌine ˈekso apˌo to xorˈo ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2428.68,2433.72,πώς μπορεί να έσιει άποψη για σένα που,pˈoz borˈi na ˈesji ˈapopsˌi jˈa sˈena pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2431.28,2437.16,είσαι μέσα στο χώρο,ˌise mˌesa sto xˈoro
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2433.72,2442.359,Γιατί την ώρα που έρχονται τα δύσκολα,jatˈi tin ˈora pu ˈerxodˌe ta ðˈiskolˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2437.16,2444.72,προφανώς σκέφτεσαι την πιο εύκολη λύση,prˌofanˈos scˈeftesˌe tim bçˈo ˈefkolˌi lˈisi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2442.359,2448.04,Ε όμως,ˈepsilˌon ˈomos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2444.72,2451.56,γενικότερα ε θεωρώ,jˌenikˈoterˌa ˈepsilˌon θˌeorˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2448.04,2454.72,ότι την ώρα που πονάς εν έχεις την,ˈoti tin ˈora pu ponˈas ˈen ˌeçis tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2451.56,2458.56,κρίση ε για να αποφασίσεις αν θέλω να,krˈisi ˈepsilˌon jan ˌapofasˈisis an θˈelo na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2454.72,2460.92,ζήσω όξα όι για αύριο μεθαύριο Οπότε,zˈiso ˈoksa ˈoɪ jˈa ˈavriˌo meθˈavriˌo opˈote
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2458.56,2462.28,είναι άδικονομ πρώτον να αποφασίζει,ˌine ˈaðikˌonom prˈoton n ˌapofasˈizi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2460.92,2465.88,κάποιος άλλος για,kˈapiˌos ˈaloz jˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2462.28,2469.2,σένα Ε να αποφασίσει η μάμα μου ο,sˈena ˈepsilˌon n ˌapofasˈisi i mˈama mu ˈomikrˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2465.88,2473.119,άντρας μου ποιος να το παιδί μου Ε έννα,ˈadraz mu pˈioz na to peðˈi mu ˈepsilˌon ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2469.2,2475.079,μου σβήσουν το μηχάνημα γιατί,mu svˈisun do mixˈanimˌa jatˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2473.119,2477.599,ε προφανώς εγώ είμαι ο ασθενής προφανώς,ˈepsilˌon prˌofanˈos eɣˈo ˌime o ˌasθenˈis prˌofanˈos
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2475.079,2480.76,ο ασθενής της αποφασής Ναι αν είμαι αν,o ˌasθenˈis tis ˌapofasˈiz nˈe an ˌime an
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2477.599,2482.64,είμαι σε καταστολή αν είμαι σε κόμημα αν,ˌime se kˌatastolˈi an ˌime se kˈomim an
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2480.76,2486.2,είμαι οτιδήποτε γιατί να γιατί να έσιει,ˌime ˌotiðˈipotˌe jatˈi na jatˈi na ˈesji
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2482.64,2491.92,κάποιος άλλος την τη την,kˈapiˌos ˈalos tin di tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2486.2,2494.24,το την απόφαση ε ενώ εγώ αδυνατό να την,to tin apˈofasˌi ˈepsilˌon enˈo eɣˈo ˌaðinatˈo na tin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2491.92,2496.72,έχω τζείνη την ώρα προφανώς τζαί η ευθύνη,ˌexo dzˈini tin ˈora prˌofanˈos dzˈe i efθˈini
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2494.24,2498.52,έννα είναι αποκλειστικά στον ίδιον τον των,ˈena ˌine ˌapoklˌistikˈa ston ˈiðiˌon don don
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2496.72,2500.48,τον ασθένει,ton asθˈeni
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2498.52,2504.96,Ναι αυτό έννα συμβαίνει εν έννα μπαίνουν,nˈe aftˈo ˈena simvˈeni ˈen ˈena bˈenun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2500.48,2507.24,τρίτη κταλοιπά Αλλά εσύ λες ότι ε κατά,trˈiti ktˌalipˈa alˌa esˈi lˈes ˈoti ˈepsilˌon katˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2504.96,2510.88,τη δική σου άποψη έτσι όπως το,ti ðicˈi su ˈapopsˌi ˈetsi ˈopos to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2507.24,2512.319,αντιλαμβάνεσαι έννα πρέπει έννα πρέπει να,ˌadilamvˈanesˌe ˈena prˈepi ˈena prˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2510.88,2516.04,εξαντληθούν,ˌeksadliθˈun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2512.319,2518.56,αντιλαμβάνομαι όλα τα άλλα περιθώρια,ˌadilamvˈanomˌe ˈola t ˈala pˌeriθˈoriˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2516.04,2521.4,Γενικότερα γενικότερα είμαι γενικότερα,jˌenikˈoterˌa jˌenikˈoterˌa ˌime jˌenikˈoterˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2518.56,2524.92,είμαι κατά της ευθανασίας,ˌime katˈa tis ˌefθanasˈias
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2521.4,2528.4,Γιατί ακόμα τζαί εγώ όταν είχα βρεθεί σε,jatˈi akˈoma dzˈe eɣˈo ˈotan ˌixa vreθˈi se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2524.92,2531.28,εκείνο το στάδιον που βέβαια να πούμε,ecˈino to stˈaðiˌom bu vˈeveˌa na pˈume
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2528.4,2535.72,ότι που ασθένεια σε ασθένεια διαφέρουν,ˈoti pu asθˈeɲa se asθˈeɲa ðˌiafˈerun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2531.28,2537.52,πάρα πολύ Ε τζαί τα συμπτώματα τζαί τζαί η,pˈara polˈi ˈepsilˌon dzˈe ta sibtˈomatˌa dzˈe dzˈe ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2535.72,2540.72,πρόγνωση τζαί τα συμπτώματα τζαί οι,prˈoɣnosˌi dzˈe ta sibtˈomatˌa dzˈe i
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2537.52,2543.28,παρενέργειες τζαί οι πόνοι,pˌarenˈerjes dzˈe i pˈoni
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2540.72,2545.4,εδιαφέρουν πάρα πολύ Οπότε εν μπορώ,ˌeðiafˈerum bˈara polˈi opˈote ˈen borˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2543.28,2549.119,εγώ να μιλήσω για κάποιον ασθενή που,eɣˈo na milˈiso jˈa kˈapiˌon ˌasθenˈi pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2545.4,2551.04,περνά μιαν άλλεια Ούτε αυτός ο ασθένεις,pernˈa mˈian ˈaʎa ˈute aftˈos o asθˈenis
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2549.119,2553.4,μπορεί να μιλήσει για τη δική μου,borˈi na milˈisi jˈa ti ðicˈi mu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2551.04,2556.44,ασθένεια Ε,asθˈeɲa ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2553.4,2558.96,οπότε είναι πολύ περίεπλογο θέμα Για το,opˈote ˌine polˈi perˈieplˌoɣo θˈema jˈa to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2556.44,2560.839,μόνο που είμαι σίγουρη ε τζαί εν το,mˈono pu ˌime sˈiɣurˌi ˈepsilˌon dzˈe ˈen do
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2558.96,2562.96,συζητώ καν είναι για το να αποφασίζουν,sˌizitˈo kˈan ˌine jˈa to n ˌapofasˈizun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2560.839,2564.44,άλλοι για σένα Όι ρε φίλε επειδή εσύ,ˈali jˈa sˈena ˈoɪ rˈe fˈile ˌepiðˈi esˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2562.96,2566.48,μπορείς να με θεωρείς να πονώ ε,borˈiz na me θˌeorˈiz na ponˈo ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2564.44,2568.96,σημαίνει ότι εσύ πρέπει να πεις στο,simˈeni ˈoti esˈi prˈepi na pˈis sto
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2566.48,2571.559,γιατρό κλείστε το μηχάνημα όποιος τζαί,jatrˈo klˈiste to mixˈanimˌa ˈopiˌos dzˈe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2568.96,2574.0,να είσαι ο εσύ,na ˌise o esˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2571.559,2575.88,Θεωρώ μετά ότι μπαίνουν τζαί πολλά άλλα,θˌeorˈo metˈa ˈoti bˈenun dzˈe polˈa ˈala
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2574.0,2577.2,πράγματα μες στη μέση που εν πρέπει να,prˈaɣmatˌa mˈes sti mˈesi pu ˈem brˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2575.88,2580.2,υπάρχουν,ipˈarxun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2577.2,2580.2,Ε,ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2580.96,2586.319,είναι η εμπιστοσύνη η διαφάνεια έτσι,ˌine i ˌebistosˈini i ðˌiafˈaɲa ˈetsi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2583.24,2589.24,που μπορείς να έχεις Ε εδώ ότα μας,pu borˈiz na ˌeçis ˈepsilˌon eðˈo ˈota mas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2586.319,2591.559,σκοτώνουν με όπλα μαχαίρια μες στα,skotˈonun me ˈopla maçˈeriˌa mˈes sta
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2589.24,2596.04,σπίτια τους οι άντρες τις γυναίκες,spˈitiˌa tus i ˈadres tiz jinˈeces
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2591.559,2598.0,τους γυναίκες τους άντρες ε δηλαδή,tuz jinˈeces tus ˈadres ˈepsilˌon ðˌilaðˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2596.04,2600.0,οικογένειες αδέρφια ξαδέρφια,ˌikojˈeɲes aðˈerfiˌa ksaðˈerfiˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2598.0,2603.68,πράγματα Μαρέ μου υπάρχει κάτι,prˈaɣmatˌa marˈe mu ipˈarçi kˈati
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2600.0,2606.44,άλλο Ε είδαμε πάρα πολλές φορές,ˈalo ˈepsilˌon ˈiðamˌe pˈara polˈes forˈes
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2603.68,2608.68,γιατρούς να πέφτουν έξω στην πρόβωση,jatrˈuz na pˈeftun ˈekso stim brˈovosˌi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2606.44,2610.68,Ωραίο,orˈeo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2608.68,2613.72,Ε εννεν ένα ζήτημα που πρέπει να,ˈepsilˌon ˈenen ˌena zˈitimˌa pu prˈepi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2610.68,2616.44,μας απασχολήσει αυτό Από τα πιο,mas ˌapasxolˈisi aftˈo apˌo ta pçˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2613.72,2619.2,σημαντικά να δανιστώ λίγα από τα λόγια,sˌimadikˈa na ðˌanistˈo lˈiɣ apˌo ta lˈoja
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2616.44,2623.48,του βαλάντη του Καπαρτή που είχε περάσει,tu valˈadi tu kˌapartˈi pu ˌiçe perˈasi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2619.2,2625.599,τζαί ο ίδιος καρκίνον Πώς Ναι Λέει ότι,dzˈe o ˈiðiˌos karcˈinom bˈoz nˈe lˈei ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2623.48,2628.0,όταν πήγε να ρωτήσει τον γιατρόν του για,ˈotam bˈije na rotˈisi ton jatrˈon du jˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2625.599,2629.52,τις πιθανότητες ο γιατρός του είπε του,tis pˌiθanˈotitˌes o jatrˈos tu ˈipe tu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2628.0,2631.8,ότι,ˈoti
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2629.52,2633.359,είτε είναι πιθανότητες είτε είναι,ˈite ˌine pˌiθanˈotitˌes ˈite ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2633.359,2637.48,Σε πιάνουν τις δύο πλευρές είναι να,se pçˈanun diz ðˈio plevrˈes ˌine na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2634.599,2640.28,βρεθείς κάθε φορά εσύ ενη ξέρεις Οπότε,vreθˈis kˈaθe forˈa esˈi ˈeni ksˈeris opˈote
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2637.48,2643.0,από τη στιγμή που υπάρχει μια θεραπεία ε,apˌo ti stiɣmˈi pu ipˈarçi mɲa θˌerapˈia ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2640.28,2646.16,εν μπορείς να αποφασίσει που πριν σε,ˈen borˈiz n ˌapofasˈisi pu prˈin se
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2643.0,2647.64,ποιο σε ποια που τα δύο νούμερα είσαι,pˈio se pˈia pu ta ðˈio nˈumerˌa ˌise
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2646.16,2650.44,Υπάρχουν τζαί περιπτώσεις όπως τη δική,ipˈarxun dzˈe pˌeriptˈosis ˈopos ti ðicˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2647.64,2652.28,μου που εν υπήρχαν,mu pu ˈen ipˈirxan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2650.44,2656.68,πιθανότητες εν,pˌiθanˈotitˌes ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2652.28,2660.96,υπήρχαν εν υπήρχε το ξανά Ε εν,ipˈirxan ˈen ipˈirçe to ksanˈa ˈepsilˌon ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2656.68,2664.04,υπήρχε στο σημείο που βρίσκεται,ipˈirçe sto simˈio pu vrˈiscetˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2660.96,2668.559,Ε πώς μπορείς να αποφασίζεις για τον,ˈepsilˌon pˈoz borˈiz n ˌapofasˈiziz jˈa ton
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2664.04,2672.16,άλλον Επίσης το ραυμιοσάρκωμα να,ˈalon epˈisis to rˌavmiosˈarkomˌa na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2668.559,2677.079,πούμε εν έσιει τόσους,pˈume ˈen ˈesji tˈosus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2672.16,2680.359,πόνους τζαί το λαλώ ότι εν έχω πονέσει να,pˈonus dzˈe to lalˈo ˈoti ˈen ˌexo ponˈesi na
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2677.079,2683.119,να πονώ δηλαδή να με πιάνει μια κράμπα,na ponˈo ðˌilaðˈi na me pçˈani mɲa krˈaba
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2680.359,2685.48,να με πιάνει κάτι να να να έχω χρόνιον,na me pçˈani kˈati na na na ˌexo xrˈoɲon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2683.119,2688.72,μπορών πολλά ωραίων,borˈom bolˈa orˈeon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2685.48,2689.68,εύκολωνε δηλαδή είμαι πιασμένη ουβάνω,ˈefkolˌone ðˌilaðˈi ˌime pçasmˈeni uvˈano
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2688.72,2692.24,σουκά,sukˈa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2689.68,2693.16,όλη μέρα ας πούμε Ε τόσα χρόνια που,ˈoli mˈer ˈas pˈume ˈepsilˌon tˈosa xrˈoɲa pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2692.24,2697.119,ήμουν,ˌimun
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2693.16,2700.48,αθλήτρια τζαί ξέρω του είδους τους πόνους,aθlˈitriˌa dzˈe ksˈero tu ˈiðus tus pˈonus
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2697.119,2701.96,ε ενεπερνάω ούτε παυσίπον ούτε τίποτα,ˈepsilˌon ˌenepernˈao ˈute pafsˈipon ˈute tˈipotˌa
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2700.48,2704.16,Ήταν να κάνω θητάς ήταν να κάνω έναν,ˌitan na kˈano θitˈas ˌitan na kˈano ˌenan
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2701.96,2707.28,άλλο ήταν να πω περάσει Πλέον,ˈalo ˌitan na pˈo perˈasi plˈeon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2704.16,2709.319,αναγκαστικά πεινώ παυσίποωνα Θέλω να πω,ˌanaŋɡˌastikˈa pinˈo pafsˈipoˌona θˈelo na pˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2707.28,2710.839,ότι εν ξέρεις ήντα έννα σου έρθει εν,ˈoti ˈeŋ ɡzˈeris ˈida ˈena su ˈerθi ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2709.319,2712.079,ξέρεις πότε έννα έρθει εν ξέρεις γιατί,ksˈeris pˈote ˈena ˈerθi ˈeŋ ɡzˈeriz jatˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2710.839,2714.359,έννα,ˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2712.079,2716.16,έρθει Θαρκούμαι ότι είμαστε πολύ μικροί,ˈerθi θarkˈume ˈoti ˌimastˌe polˈi mikrˈi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2714.359,2719.8,για να αποφασούμε τέτοια πράγματα στην,jan ˌapofasˈume tˈetiˌa prˈaɣmatˌa stin
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2716.16,2722.88,ιατρική Ε στην ιατρική εννεν,ˌiatricˈi ˈepsilˌon stin ˌiatricˈi ˈenen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2719.8,2726.76,ιατρική Ε,ˌiatricˈi ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2722.88,2728.44,ε κλείνοντας,ˈepsilˌon klˈinodˌas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2726.76,2732.24,θέλω να μας,θˈelo na mas
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2728.44,2734.76,πεις ήντα είναι αυτό που,pˈis ˈida ˌine aftˈo pu
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2732.24,2736.72,εγκέρδισες μέσα από αυτήν τη δοκιμασία,eŋɡˈerðisˌez mˌes apˌo aftˈin di ðˌocimasˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2734.76,2739.599,την οποία,tin opˈia
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2736.72,2741.359,βιώνεις το για το ήντα έχασες Ντάξει,viˈonis to jˈa to ˈida ˈexasˌez dˈaksi
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2739.599,2743.88,φαίνεται Θαρκούμαι φαίνονται πάρα να το,fˈenetˌe θarkˈume fˈenodˌe pˈara na to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2741.359,2746.2,πάρω στην πλάκα Δε αυτό τζιαμέ προσπαθώ,pˈaro stim blˈaka ðˈe aftˈo dzˌiamˈe prˌospaθˈo
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2743.88,2749.4,να το πάρω,na to pˈaro
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2746.2,2751.24,Καταρχάς μπαίνω για μπάνο μπάνιο φκαίνω,kˌatarxˈaz bˈeno jˈa bˈano bˈaɲo fcˈeno
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2749.4,2753.4,τζαί κατευθείαν είμαι έτοιμη να φύω εν,dzˈe kˌatefθˈian ˌime ˈetimˌi na fˈio ˈen
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2751.24,2755.48,έχω με να αλούσω μαλλί με να σάσω,ˌexo me n alˈuso malˈi me na sˈaso
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2753.4,2758.8,μαλλί με τίποτε Είναι ευτυχία του το,malˈi me tˈipotˌe ˌine ˌeftiçˈia tu to
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2755.48,2761.04,πράγμα Ε οι γυναίκες καταλάβετε,prˈaɣma ˈepsilˌon i jinˈeces kˌatalˈavetˌe
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2758.8,2763.72,με ωραία μην το λαλούμε αλλά είναι,me orˈea mˈin do lalˈume alˌa ˌine
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2761.04,2765.68,αλήθεια,alˈiθça
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2763.72,2768.319,Εντάξει να φύγει λίγο που είναι η,edˈaksi na fˈiji lˈiɣo pu ˌine ˈita
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2765.68,2768.319,πλάκα,plˈaka
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2768.44,2777.079,Ε να πω ότι εν επεριμένα,ˈepsilˌon na pˈo ˈoti ˈen ˌeperimˈena
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2772.319,2780.079,ποτέ να να έρθει έτσι η ζωή μου Ε,potˈe na na ˈerθi ˈetsi i zoˈi mu ˈepsilˌon
+/kaggle/input/audio-files/Audio_Files/_v65uDbQTvg.wav,2777.079,2783.28,παρόλα αυτά συνεχίζουμε να ζούμε Τούτο,parˈol aftˈa sˌineçˈizumˌe na zˈume tˈuto
