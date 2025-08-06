@@ -1,14 +1,15 @@
 # KenLM language model files - use Git LFS for large binary files
-*.arpa filter=lfs diff=lfs merge=lfs -text
+# Binary model files
 *.binary filter=lfs diff=lfs merge=lfs -text
 *.klm filter=lfs diff=lfs merge=lfs -text
 *.lm filter=lfs diff=lfs merge=lfs -text
-
-# KenLM specific patterns
-**/kenlm/**/*.arpa filter=lfs diff=lfs merge=lfs -text
+# ARPA format language model files
+*.arpa filter=lfs diff=lfs merge=lfs -text
+# KenLM specific patterns (explicit paths)
 **/kenlm/**/*.binary filter=lfs diff=lfs merge=lfs -text
 **/kenlm/**/*.klm filter=lfs diff=lfs merge=lfs -text
 **/kenlm/**/*.lm filter=lfs diff=lfs merge=lfs -text
+**/kenlm/**/*.arpa filter=lfs diff=lfs merge=lfs -text
 # N-gram model files (common extensions)
 *.ngram filter=lfs diff=lfs merge=lfs -text
 *.3gram filter=lfs diff=lfs merge=lfs -text
@@ -18,8 +19,28 @@
 *.arpa.gz filter=lfs diff=lfs merge=lfs -text
 *.arpa.bz2 filter=lfs diff=lfs merge=lfs -text
 *.klm.gz filter=lfs diff=lfs merge=lfs -text
-# Text files should remain as text (for proper diffs)
+*.binary.gz filter=lfs diff=lfs merge=lfs -text
+# Model metadata and vocabulary files (keep as text for diffs)
 *.txt text
 *.log text
 *.vocab text
 *.counts text
+*.vocabulary text
+*.vocab.txt text
+# Configuration files
+*.conf text
+*.config text
+*.ini text
+# Scripts and source code
+*.py text
+*.sh text
+*.bash text
+*.js text
+*.ts text
+*.json text
+*.yaml text
+*.yml text
+*.md text
+# Exclude system files
+.DS_Store binary
+Thumbs.db binary
