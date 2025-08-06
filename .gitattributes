@@ -1,7 +1,25 @@
-week-6/kenlm/*.arpa filter=lfs diff=lfs merge=lfs -text
-week-6/kenlm/*.binary filter=lfs diff=lfs merge=lfs -text
-week-6/kenlm/*.klm filter=lfs diff=lfs merge=lfs -text
-*.klm filter=lfs diff=lfs merge=lfs -text
+# KenLM language model files - use Git LFS for large binary files
 *.arpa filter=lfs diff=lfs merge=lfs -text
 *.binary filter=lfs diff=lfs merge=lfs -text
+*.klm filter=lfs diff=lfs merge=lfs -text
 *.lm filter=lfs diff=lfs merge=lfs -text
+
+# KenLM specific patterns
+**/kenlm/**/*.arpa filter=lfs diff=lfs merge=lfs -text
+**/kenlm/**/*.binary filter=lfs diff=lfs merge=lfs -text
+**/kenlm/**/*.klm filter=lfs diff=lfs merge=lfs -text
+**/kenlm/**/*.lm filter=lfs diff=lfs merge=lfs -text
+# N-gram model files (common extensions)
+*.ngram filter=lfs diff=lfs merge=lfs -text
+*.3gram filter=lfs diff=lfs merge=lfs -text
+*.4gram filter=lfs diff=lfs merge=lfs -text
+*.5gram filter=lfs diff=lfs merge=lfs -text
+# Compressed language model files
+*.arpa.gz filter=lfs diff=lfs merge=lfs -text
+*.arpa.bz2 filter=lfs diff=lfs merge=lfs -text
+*.klm.gz filter=lfs diff=lfs merge=lfs -text
+# Text files should remain as text (for proper diffs)
+*.txt text
+*.log text
+*.vocab text
+*.counts text
